@@ -3,11 +3,33 @@ document.addEventListener('DOMContentLoaded', function() {
     const greekWordElement = document.getElementById('greek-word');
     const showTranslationButton = document.getElementById('show-translation');
     const nextWordButton = document.getElementById('next-word');
+    const toggleModeButton = document.getElementById('toggle-mode');
+    const modeTextElement = document.getElementById('mode-text');
+    const serialSearchContainer = document.getElementById('serial-search');
+    const searchInput = document.getElementById('search-input');
+    const searchButton = document.getElementById('search-button');
 
     let currentWord = null;
+    let gameMode = 'random';
+    let serialIndex = 0;
+    let wordCount = 0;
+
+    function getWordCount() {
+        fetch('/get_word_count')
+            .then(response => response.json())
+            .then(data => {
+                wordCount = data.count;
+            });
+    }
 
     function getNewWord() {
-        fetch('/get_word')
+        let url = '/get_word';
+        if (gameMode === 'serial') {
+            url += `?mode=serial&index=${serialIndex}`;
+            serialIndex = (serialIndex + 1) % wordCount;
+        }
+
+        fetch(url)
             .then(response => response.json())
             .then(data => {
                 if (data.error) {
@@ -32,6 +54,37 @@ document.addEventListener('DOMContentLoaded', function() {
         getNewWord();
     });
 
-    // Load the first word
+    toggleModeButton.addEventListener('click', function() {
+        if (gameMode === 'random') {
+            gameMode = 'serial';
+            modeTextElement.textContent = 'Serial';
+            serialSearchContainer.style.display = 'block';
+            serialIndex = 0; // Reset index when switching to serial
+        } else {
+            gameMode = 'random';
+            modeTextElement.textContent = 'Random';
+            serialSearchContainer.style.display = 'none';
+        }
+        getNewWord(); // Get a new word in the new mode
+    });
+
+    searchButton.addEventListener('click', function() {
+        const searchTerm = searchInput.value;
+        if (searchTerm) {
+            fetch(`/find_word?term=${encodeURIComponent(searchTerm)}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.index !== -1) {
+                        serialIndex = data.index;
+                        getNewWord();
+                    } else {
+                        alert('Word not found!');
+                    }
+                });
+        }
+    });
+
+    // Load the word count and then the first word
+    getWordCount();
     getNewWord();
 });

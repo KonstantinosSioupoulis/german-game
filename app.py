@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
 import random
 
 app = Flask(__name__)
@@ -23,8 +23,33 @@ def index():
 def get_word():
     if not translations:
         return jsonify({"error": "No translations found."})
-    return jsonify(random.choice(translations))
+
+    mode = request.args.get('mode', 'random')
+    if mode == 'serial':
+        index = int(request.args.get('index', 0))
+        if 0 <= index < len(translations):
+            return jsonify(translations[index])
+        else:
+            return jsonify(translations[0]) # Loop back to the start
+    else: # random mode
+        return jsonify(random.choice(translations))
+
+@app.route('/get_word_count', methods=['GET'])
+def get_word_count():
+    return jsonify({'count': len(translations)})
+
+@app.route('/find_word', methods=['GET'])
+def find_word():
+    search_term = request.args.get('term', '').lower()
+    if not search_term:
+        return jsonify({'index': -1})
+
+    for i, translation in enumerate(translations):
+        if search_term in translation['german'].lower():
+            return jsonify({'index': i})
+
+    return jsonify({'index': -1})
+
 
 if __name__ == '__main__':
     app.run(debug=True)
-

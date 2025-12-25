@@ -16,7 +16,13 @@
         <div class="buttons">
             <button id="show-translation">Show Translation</button>
             <button id="next-word">Next Word</button>
+            <button id="toggle-mode">Toggle Mode</button>
         </div>
+        <div id="serial-search" style="display: none; margin-top: 15px;">
+            <input type="text" id="search-input" placeholder="Enter a word...">
+            <button id="search-button">Find Word</button>
+        </div>
+        <div class="game-mode">Mode: <span id="mode-text">Random</span></div>
     </div>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
