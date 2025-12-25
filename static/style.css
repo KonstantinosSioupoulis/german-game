@@ -7,7 +7,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-image: url('background-ui.jpg');
+    background-image: url('background-image.png');
     background-size: cover;
     background-position: center;
     color: #F5F5DC; /* Beige for better contrast on dark background */
