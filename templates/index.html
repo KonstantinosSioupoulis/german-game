@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>German-Greek Flashcards</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>German-Greek Flashcards</h1>
+        <div class="flashcard">
+            <div class="german-word" id="german-word"></div>
+            <div class="greek-word" id="greek-word" style="display: none;"></div>
+        </div>
+        <div class="buttons">
+            <button id="show-translation">Show Translation</button>
+            <button id="next-word">Next Word</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

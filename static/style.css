@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap');
+
+body {
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-image: url('background-ui.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #F5F5DC; /* Beige for better contrast on dark background */
+    position: relative;
+}
+
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: -1;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.3); /* Transparent black */
+    padding: 30px 40px;
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    text-align: center;
+    max-width: 500px;
+    width: 90%;
+}
+
+h1 {
+    color: #F5F5DC;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+.flashcard {
+    width: 100%;
+    min-height: 180px;
+    background: transparent;
+    margin: 25px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 600;
+    color: #F5F5DC;
+    border-radius: 12px;
+    box-shadow: none;
+    transition: transform 0.3s ease-in-out;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.flashcard:hover {
+    transform: translateY(-5px);
+}
+
+.german-word {
+    margin-bottom: 10px;
+}
+
+.greek-word {
+    color: #F5F5DC; 
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.buttons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.buttons button {
+    padding: 12px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 1px solid rgba(245, 245, 220, 0.8);
+    border-radius: 8px;
+    background-color: rgba(139, 69, 19, 0.6); /* SaddleBrown with transparency */
+    color: #F5F5DC;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.buttons button:hover {
+    background-color: rgba(139, 69, 19, 0.8); /* Darker SaddleBrown on hover */
+    transform: translateY(-2px);
+}
+
+.buttons button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
