@@ -1,0 +1,2008 @@
+der Start	αρχή, ξεκίνημα
+die Natur	φύση
+der Transport, die Transporte	μεταφορά
+der Hafen, die Häfen	λιμάνι
+der Gruß, die Grüße	χαιρετισμός, χαιρετίσματα
+aus	από
+das Opernhaus, die Opernhäuser	μέγαρο της Όπερας
+das Museum, die Museen	μουσείο
+der Garten, die Gärten	κήπος
+Grüezi	Γεια σου! Γεια σας! [ελβετικά Γερμανικά]
+die Schweiz	Ελβετία
+die Schokolade, die Schokoladen	σοκολάτα
+und	και
+die Milch	γάλα
+der Wintersport	χειμερινά σπορ
+das Taschenmesser, die Taschenmesser	σουγιάς
+die Technik	τεχνολογία
+ankommen, er kommt an	φθάνω (κάπου)
+sehen, er sieht	βλέπω
+leben, er lebt	ζω
+die Musik	μουσική
+der Sport	αθλητισμός, σπορ
+wo	πού
+das Alphabet	αλφάβητο
+hören, er hört	ακούω
+lesen, er liest	διαβάζω
+Sie	εσείς [τύπος ευγένειας]
+das Abc	αλφάβητο
+sein, er ist, er war	είμαι
+komplett	πλήρης, κομπλέ
+sprechen, er spricht	μιλώ
+erst	πρώτα
+langsam	αργός, αργά
+dann	μετά, κατόπιν
+schnell	γρήγορος, γρήγορα
+nachsprechen, er spricht nach	επαναλαμβάνω
+ander-	άλλος, άλλη, άλλο
+die Sprache, die Sprachen	γλώσσα
+was	τι
+die Stadt, die Städte	πόλη
+in	σε
+D-A-CH	Γερμανία - Αυστρία - Ελβετία
+schreiben, er schreibt	γράφω
+noch	ακόμα
+einmal	μια φορά
+markieren, er markiert	σημειώνω
+der Wortakzent	σημείο όπου τονίζεται η λέξη
+wie	[εδώ!] όπως
+das Beispiel, die Beispiele	παράδειγμα
+Deutschland	Γερμανία
+Österreich	Αυστρία
+arbeiten, er arbeitet	δουλεύω, εργάζομαι
+mit	με
+die Karte, die Karten	[εδώ!] χάρτης
+vorn(e)	μπροστά
+das Buch, die Bücher	βιβλίο
+drei	τρεις
+buchstabieren, er buchstabiert	συλλαβίζω
+der Partner, die Partner / die Partnerin, die Partnerinnen	[εδώ!] συμμαθητής, συμμαθήτρια
+kontrollieren, er kontrolliert	ελέγχω
+telefonieren, er telefoniert	τηλεφωνώ
+Guten Tag!	Καλημέρα!
+der Herr, die Herren	κύριος
+das Telefongespräch, die Telefongespräche	τηλεφώνημα, τηλεφωνική συνδιάλεξη
+die Frau, die Frauen	γυναίκα, [εδώ!] κυρία
+hier	εδώ
+denn	[αμετάφραστο μόριο που δίνει ζωντάνια σε μια ερώτηση]
+da	[εδώ!] εκεί
+danke	ευχαριστώ
+der Moment, die Momente	στιγμή
+bitte	παρακαλώ
+der Dialog, die Dialoge	διάλογος
+Ihr, Ihre, Ihr	δικός σας, δική σας, δικό σας [τύπος ευγένειας]
+der Name, die Namen	όνομα
+mein, meine, mein	δικός μου, δική μου, δικό μου
+wie	[εδώ!] πώς
+man	κανείς [αόριστη αντωνυμία]
+das	αυτό
+Wie schreibt man das?	Πώς γράφεται;
+auswählen, er wählt aus	επιλέγω
+die Frage, die Fragen	ερώτηση
+die Antwort, die Antworten	απάντηση
+der Deutschkurs, die Deutschkurse	τμήμα/τάξη Γερμανικών
+heißen, er heißt	ονομάζομαι, λέγομαι
+auf	(πάνω) σε
+Deutsch	Γερμανικά
+Wie heißt das auf Deutsch?	Πώς λέγεται αυτό στα γερμανικά;
+kein, keine, kein	δεν [αρνητικό αόριστο άρθρο]
+die Ahnung (Keine Ahnung!)	ιδέα, γνώση (Δεν έχω ιδέα!)
+können, er kann, er konnte	μπορώ
+du	εσύ
+das Verb, die Verben	ρήμα
+an	(πλάι) σε
+die Tafel, die Tafeln	πίνακας
+Na ...	ε [μόριο]
+klar	σαφής, σαφώς, βέβαια
+gern(e)	ευχαρίστως
+wiederholen, er wiederholt	επαναλαμβάνω
+ja	ναι
+die Bitte, die Bitten	παράκληση
+aus	από
+das Redemittel, die Redemittel	εκφραστικό μέσο, έκφραση
+die Entschuldigung, die Entschuldigungen	συγνώμη
+ich	εγώ
+verstehen, er versteht	καταλαβαίνω
+nicht	δεν
+zuordnen, er ordnet zu	αντιστοιχίζω
+fragen, er fragt	ρωτάω
+antworten, er antwortet	απαντώ
+der Kurs, die Kurse	τμήμα, τάξη
+der Lehrer, die Lehrer / die Lehrerin, die Lehrerinnen	δάσκαλος, δασκάλα
+der Lerner, die Lerner	μαθητής
+wer	ποιος, ποια
+sagen, er sagt	λέω
+haben, er hat, er hatte	έχω
+der Text, die Texte	κείμενο
+der Kursraum, die Kursräume	αίθουσα διδασκαλίας, τάξη
+das Wort, die Wörter	λέξη
+kennen, er kennt	γνωρίζω
+die Uhr, die Uhren	ρολόι
+die Tür, die Türen	πόρτα
+das Brötchen, die Brötchen	ψωμάκι
+der Textmarker, die Textmarker	μαρκαδόρος
+der Laptop, die Laptops	λάπτοπ
+der Bleistift, die Bleistifte	μολύβι
+die Tasche, die Taschen	τσάντα
+der Stuhl, die Stühle	καρέκλα
+der Kuli, die Kulis	στυλό
+der Tisch, die Tische	τραπέζι
+das Handy, die Handys	κινητό
+das Heft, die Hefte	τετράδιο
+das Plakat, die Plakate	πλακάτ, αφίσα
+der Kaffee, die Kaffees	καφές
+der Gegenstand, die Gegenstände	αντικείμενο
+vergleichen, er vergleicht	συγκρίνω
+die Pause, die Pausen	διάλειμμα
+machen, er macht	κάνω
+der Radiergummi, die Radiergummis	γόμμα
+die Arbeitsanweisung, die Arbeitsanweisungen	οδηγία
+das Bild, die Bilder	1. εικόνα, 2. κάδρο
+laut	δυνατά, φωναχτά
+ergänzen, er ergänzt	συμπληρώνω
+passen, es passt	ταιριάζω
+passend	κατάλληλος, που ταιριάζει
+die Einheit, die Einheiten	ενότητα, κεφάλαιο
+der Sommerkurs, die Sommerkurse	θερινό τμήμα
+Leipzig	Λειψία
+hallo	γεια σου, γεια σας
+kommen, er kommt	έρχομαι, [εδώ!] είμαι, κατάγομαι
+Brasilien	Βραζιλία
+Genf	Γενεύη
+Italienisch	ιταλικά
+Französisch	γαλλικά
+Englisch	αγγλικά
+der Iran	Ιράν
+viele	πολλοί, πολλές, πολλά
+das Land, die Länder	χώρα
+der/die Studierende, die Studierenden	σπουδαστής, σπουδάστρια
+der Sommer	καλοκαίρι
+lernen, er lernt	μαθαίνω
+international	διεθνής
+Portugiesisch	πορτογαλικά
+Spanisch	ισπανικά
+Farsi	φαρσί [περσικά]
+Thai	ταϊλανδέζικα
+sich begrüßen, sie begrüßen sich	χαιρετώ, ανταλλάσσω χαιρετισμό
+sich vorstellen, ich stelle mich vor, er stellt sich vor	συστήνομαι
+die Begrüßung, die Begrüßungen	χαιρετισμός
+woher	από πού
+wohnen, er wohnt	κατοικώ, (δια)μένω
+nein	όχι
+Neuseeland	Νέα Ζηλανδία
+Kamerun	Καμερούν
+cool	ωραίος, ωραία, εντάξει, φίνος
+welcher, welche, welches	ποιος, ποια, ποιο
+Kamtok	κάμτοκ [γλώσσα που ομιλείται στο Καμερούν]
+auch	επίσης
+die Information, die Informationen	πληροφορία
+recherchieren, er recherchiert	ερευνώ, ψάχνω
+der Ländername, die Ländernamen	ονομασία χώρας
+Japanisch	γιαπωνέζικα
+Indonesisch	ινδονησιακά
+Niederländisch	ολλανδικά
+Chinesisch	κινέζικα
+Vietnamesisch	βιετναμέζικα
+Russisch	ρωσικά
+Arabisch	αραβικά
+Norwegisch	νορβηγικά
+das Nachbarland, die Nachbarländer	γειτονική χώρα
+von	από, [εδώ!] του/της
+sammeln, er sammelt	συγκεντρώνω, μαζεύω
+hinten	πίσω
+die Person, die Personen	πρόσωπο, άτομο
+Tschechien	Τσεχία
+Polen	Πολωνία
+Dänemark	Δανία
+Frankreich	Γαλλία
+die Niederlande	Ολλανδία
+das Minimemo, die Minimemos	πινακάκι για να θυμάσαι
+der Artikel, die Artikel	άρθρο
+die Türkei	Τουρκία
+fehlen, er fehlt	λείπω
+die Anmeldung, die Anmeldungen	δήλωση
+für	για
+der Vorname, die Vornamen	(μικρό) όνομα
+das Porträt, die Porträts	πορτρέτο, προσωπογραφία
+helfen, er hilft	βοηθώ
+die Seite, die Seiten	[εδώ!] σελίδα
+die Tabelle, die Tabellen	πίνακας
+die Grammatik, die Grammatiken	γραμματική
+Bulgarien	Βουλγαρία
+Spanien	Ισπανία
+Türkisch	τούρκικα
+das Würfelspiel, die Würfelspiele	παιχνίδι με ζάρια
+würfeln, er würfelt	ρίχνω τα ζάρια
+zwei	δύο
+der Würfel, die Würfel	κύβος, [εδώ!] ζάρι
+er	αυτός
+sie	αυτή
+wir	εμείς
+ihr	εσείς
+sie	αυτοί, αυτές, αυτά
+Sie	εσείς [τύπος ευγένειας]
+das Profi, die Profile	προφίλ, σκιαγράφηση
+zu zweit	σε ζευγάρια/δυάδες
+der Satzakzent	σημείο όπου τονίζεται η πρόταση
+die Position, die Positionen	θέση
+die Satzfrage, die Satzfragen	ερώτηση ολικής άγνοιας
+die W-Frage, die W-Fragen	ερώτηση μερικής άγνοιας
+stehen, es steht	βρίσκομαι, στέκομαι
+die Regel, die Regeln	κανόνας
+das Partnerinterview, die Partnerinterviews	συνέντευξη με ένα συμμαθητή
+notieren, er notiert	σημειώνω
+der Ich-Text, die Ich-Texte	κείμενο που αναφέρεται σε μένα προσωπικά
+der Wohnort, die Wohnorte	τόπος διαμονής/κατοικίας
+der Magazintext, die Magazintexte	κείμενο (περιοδικού)
+der Fehler, die Fehler	λάθος
+korrigieren, er korrigiert	διορθώνω
+der Satz, die Sätze	πρόταση
+das Video, die Videos	βίντεο
+der Steckbrief, die Steckbriefe	προφίλ, σύντομη περιγραφή
+der Nachname, die Nachnamen	επίθετο
+das Kreuzworträtsel, die Kreuzworträtsel	σταυρόλεξο
+lösen, er löst	λύνω
+das Rätsel, die Rätsel	αίνιγμα, [εδώ] σταυρόλεξο
+die Lösung, die Lösungen	λύση
+der Tipp, die Tipps	συμβουλή, βοήθεια
+zusammenpassen, sie passen zusammen	ταιριάζω, πάω μαζί
+verbinden, er verbindet	συνδέω
+Alles klar!	Κατάλαβα!
+die Wortwolke, die Wortwolken	λεξονέφος, σύννεφο λέξεων
+das Restaurant, die Restaurants	εστιατόριο, ρεστοράν
+der Computer, die Computer	υπολογιστής, κομπιούτερ
+der Appetit	όρεξη
+toll	θαυμάσιος, τρέλα
+wählen, er wählt	επιλέγω
+neu	νέος, καινούριος
+der Freund, die Freunde / die Freundin, die Freundinnen	φίλος, φίλη
+fit	σε φόρμα, [εδώ] έτοιμος
+handeln, er handelt	[εδώ] χειρίζομαι
+die Wendung, die Wendungen	έκφραση
+die Struktur, die Strukturen	δομή
+das Personalpronomen, die Personalpronomen	προσωπική αντωνυμία
+der Nominativ	ονομαστική
+der Fragesatz, die Fragesätze	ερωτηματική πρόταση
+die Aussprache	προφορά
+interaktiv	διαδραστικός
+die Übung, die Übungen	άσκηση
+die Klingel, die Klingeln	κουδούνι
+das Paket, die Pakete	πακέτο
+die Adresse, die Adressen	διεύθυνση
+viel	πολύς, πολλή, πολύ
+die Arbeit, die Arbeiten	δουλειά, εργασία
+wenig	λίγος
+die Zeit, die Zeiten	χρόνος, καιρός, ώρα
+so	έτσι
+der Brief, die Briefe	γράμμα, επιστολή
+groß	μεγάλος
+der Hund, die Hunde	σκύλος
+der Zusteller, die Zusteller / die Zustellerin,	διανομέας
+das Tempo	ταχύτητα
+der Stress	στρες, άγχος
+mögen, er mag, er mochte	αρέσει
+aber	όμως, αλλά
+deutsch	γερμανικός
+der Familienname, die Familiennamen	επίθετο
+das Problem, die Probleme	πρόβλημα
+die Vorsicht	προσοχή
+die Familie, die Familien	οικογένεια
+Guten Morgen!	Καλημέρα!
+der Empfänger, die Empfänger / die Empfängerin,	παραλήπτης, παραλήπτρια
+Tschüss!	Γεια σου/σας!
+die Postkarte, die Postkarten	καρτ-ποστάλ, ταχυδρομικό δελτάριο
+bekommen, er bekommt	παίρνω, (παρα)λαμβάνω
+die Wortliste, die Wortlisten	κατάλογος λέξεων
+der Absender, die Absender / die Absenderin,	αποστολέας
+die Postleitzahl, die Postleitzahlen	ταχυδρομικός κώδικας
+die Hausnummer, die Hausnummern	αριθμός (σπιτιού)
+der Lerntipp, die Lerntipps	συμβουλή
+immer	πάντα
+der Briefkasten, die Briefkästen	γραμματοκιβώτιο
+der Singular	ενικός
+der Plural	πληθυντικός
+die Straße, die Straßen	οδός
+das Nomen, die Nomen	ουσιαστικό
+die Singularform, die Singularformen	τύπος του ενικού
+zusammen	μαζί
+die Zahl, die Zahlen	αριθμός
+zur Kontrolle	για έλεγχο
+diktieren, er diktiert	υπαγορεύω
+die Handynummer, die Handynummern	αριθμός κινητού
+die Telefonnummer, die Telefonnummern	αριθμός τηλεφώνου
+tippen, er tippt	[εδώ!] πληκτρολογώ
+anrufen, er ruft an	τηλεφωνώ
+die Nachricht, die Nachrichten	είδηση, μήνυμα
+das Telefon (Tel.), die Telefone	τηλέφωνο
+freundlicher	πιο φιλικός
+der Fußballverein, die Fußballvereine	ποδοσφαιρικός σύλλογος
+BVB = Ballspielverein Borrusia	ποδοσφαιρικός σύλλογος Μπορούσια
+die Mannschaft, die Mannschaften	ομάδα
+die Woche, die Wochen	εβδομάδα
+der Profi-Fußball	επαγγελματικό ποδόσφαιρο
+typisch	τυπικός, χαρακτηριστικός
+die Profimannschaft, die Profimannschaften	επαγγελματική ομάδα
+der Torwart, die Torwarte	τερματοφύλακας
+das Dorf, die Dörfer	χωριό
+bei	[εδώ!] κοντά σε …
+Syrien	Συρία
+der Trainer, die Trainer / die Trainerin, die Trainerinnen	προπονητής, προπονήτρια
+die Muttersprache, die Muttersprachen	μητρική γλώσσα
+der Spieler, die Spieler / die Spielerin, die Spielerinnen	παίκτης, παίκτρια
+Belgien	Βέλγιο
+Argentinien	Αργεντινή
+das Training	προπόνηση
+oft	συχνά
+nur	μόνο
+seit	από το …
+der Nationalspieler, die Nationalspieler	διεθνής (παίκτης)
+die Heimat	πατρίδα
+heute	σήμερα
+die Top-Familiennamen (Plural!)	τα πιο συνηθισμένα επίθετα
+der Müller	μυλωνάς
+der Fischer	ψαράς
+der Beruf, die Berufe	επάγγελμα
+die Liste, die Listen	κατάλογος
+das Wörterbuch, die Wörterbücher	λεξικό
+erkennen, er erkennt	αναγνωρίζω
+China	Κίνα
+die Region, die Regionen	περιοχή
+Herzlich willkommen!	Καλωσόρισες! Καλωσορίσατε!
+variieren, er variiert	παραλλάζω, διαφοροποιώ
+ankreuzen, er kreuzt an	σημειώνω, σταυρώνω
+nachfragen, er fragt nach	κάνω ερώτηση, ρωτάω για …
+das Lernplakat, die Lernplakate	πλακάτ, αφίσα (για ένα θέμα)
+das Wechselspiel	παιχνίδι με εναλλασσόμενους ρόλους
+die Post	ταχυδρομείο, [εδώ!] αλληλογραφία
+ist da	έφθασε
+ordnen, er ordnet	τακτοποιώ, βάζω σε χρονολογική σειρά
+super	τέλειος, τέλεια
+das Wortfeld, die Wortfelder	λεξιλογικός πίνακας
+das Foto, die Fotos	φωτογραφία
+der Paketschein, die Paketscheine	δελτίο αποστολής δέματος
+das Päckchen, die Päckchen	μικροδέμα
+das Wörterbuchtraining	εξάσκηση στη χρήση του λεξικού
+malen, er malt	ζωγραφίζω
+sehen, er sieht, er hat gesehen	βλέπω
+bis	μέχρι
+der Minidialog, die Minidialoge	μίνι διάλογος
+der Umlaut, die Umlaute	αλλοίωση φωνήεντος
+das Café, die Cafés	καφετέρια
+der Kakao	κακάο
+der Cappuccino	καπουτσίνο
+der Latte Macchiato	λάτε μακιάτο
+der Tee	τσάι
+der Espresso	εσπρέσο
+der Orangensaft, die Orangensäfte	χυμός πορτοκάλι, πορτοκαλάδα
+das Wasser	νερό
+der Eistee	παγωμένο τσάι
+der Arbeitsplatz, die Arbeitsplätze	χώρος δουλειάς
+in sein, das ist in, das war in	είναι της μόδας
+Wien	Βιέννη
+Köln	Κολωνία
+Zürich	Ζυρίχη
+studieren, er studiert, er hat studiert	σπουδάζω
+das Marketing	μάρκετινγκ
+der Kellner, die Kellner / die Kellnerin, die Kellnerinnen	σερβιτόρος, σερβιτόρα
+Schweden	Σουηδία
+Stockholm	Στοκχόλμη
+der Grafikdesigner, die Grafikdesigner - die Grafik-	σχεδιαστής/σχεδιάστρια γραφικών
+die Brille, die Brillen	γυαλιά
+kennenlernen, er lernt kennen	γνωρίζω, κάνω τη γνωριμία
+die Leute (Plural!)	άνθρωποι, κόσμος
+ein bisschen	λίγο
+überall	παντού
+der Park, die Parks	πάρκο
+einfach	απλός, απλά
+brauchen, er braucht	χρειάζομαι
+das Internet	ίντερνετ, διαδίκτυο
+warum	γιατί
+die Atmosphäre	ατμόσφαιρα
+lecker	νόστιμος
+der Kopfhörer, die Kopfhörer	ακουστικό, ακουστικά
+das Getränk, die Getränke	ποτό
+bestellen, er bestellt	παραγγέλνω
+trinken, er trinkt	πίνω
+nehmen, er nimmt	παίρνω
+das Mineralwasser	μεταλλικό νερό
+der Zucker	ζάχαρη
+berichten, er berichtet	μιλώ, αφηγούμαι
+ohne	χωρίς
+möchten, er möchte	θα ήθελα
+schwarz	μαύρος, [εδώ!] σκέτος, χωρίς ζάχαρη
+überprüfen, er  überprüft	εξετάζω
+lieber (er trinkt lieber Tee)	προτιμώ να … (προτιμά να πιει τσάι)
+der Saft, die Säfte	χυμός
+wählen, er wählt	επιλέγω
+spielen, er spielt	παίζω
+das Portemonnaie, die Portemonnaies	πορτοφόλι
+bestimmter Artikel	οριστικό άρθρο
+unbestimmter Artikel	αόριστο άρθρο
+die/das Cola, die Colas	αναψυκτικό τύπου κόκα κόλα
+der Apfelsaft, die Apfelsäfte	χυμός από μήλο
+das Artikelwort, die Artikelwörter	άρθρο
+die Limonade, die Limonaden	αναψυκτικό
+der Chai	τσάι
+das Konzert, die Konzerte	συναυλία, κοντσέρτο
+der Abend, die Abende	βράδυ
+wann	πότε
+es gibt	υπάρχει, υπάρχουν
+die Lust	όρεξη, διάθεση
+die Band, die Bands	(μουσικό) συγκρότημα
+die Karte, die Karten	[εδώ!] εισιτήριο
+Kein Problem!	Κανένα πρόβλημα!
+die Bar, die Bars	μπαρ
+schicken, er schickt, er hat geschickt	στέλνω
+perfekt	τέλειος, τέλεια
+Bis dann!	Τα λέμε!
+morgen	αύριο
+der/das Comic, die Comics	κόμικς
+bezahlen, er bezahlt	πληρώνω
+die Rechnung, die Rechnungen	λογαριασμός
+das Minimemo, die Minimemos	σύντομο σημείωμα
+das Croissant, die Croissants	κρουασάν
+das Total	σύνολο
+die MwSt (Mehrwertsteuer)	ΦΠΑ (φόρος προστιθεμένης αξίας)
+bar	μετρητοίς
+bedienen, er bedient	εξυπηρετώ
+Vielen Dank!	Ευχαριστώ/Ευχαριστούμε πολύ!
+der Besuch, die Besuche	επίσκεψη
+besuchen, er besucht	επισκέπτομαι
+bald	σύντομα
+wieder	πάλι
+der Milchkaffee	καφές με γάλα
+der Hörtext, die Hörtexte	ακουστικό κείμενο
+zahlen, er zahlt	πληρώνω
+zurück	πίσω, [εδώ!] ρέστα
+sehr	πολύ
+gut	καλός, καλά
+Bis gleich!	Τα λέμε (σε λίγο)!
+Bis morgen!	Τα λέμε αύριο!
+später	αργότερα
+Bis später!	Τα λέμε αργότερα!
+die Situation, die Situationen	κατάσταση, περίσταση
+der Fußball	ποδόσφαιρο
+zweimal	δύο φορές
+richtig	σωστός, σωστά
+falsch	λανθασμένος
+Hannover	Αννόβερο
+die Aussage, die Aussagen	πρόταση
+das Wörternetz, die Wörternetze	ομάδα συγγενών λέξεων (σαν ιστός αράχνης)
+flüssig	[εδώ!] με άνεση, χωρίς κόμπιασμα
+der Gast, die Gäste	επισκέπτης, καλεσμένος, [εδώ!] πελάτης
+nutzen, er nutzt	χρησιμοποιώ, αξιοποιώ
+kalt	κρύος
+heiß	καυτός
+das Eis	1. πάγος   2. παγωτό
+der Eiskaffee	καφές με παγωτό
+der Stift, die Stifte	μολύβι, γραφίδα
+die Reihenfolge, die Reihenfolgen	σειρά
+die Lust	όρεξη, διάθεση
+getrennt	χωριστά
+teuer (Wie teuer ist/sind...)	ακριβός (Πόσο κοστίζει…)
+die Karte, die Karten	[εδώ!] (πιστωτική/χρεωστική) κάρτα
+die Getränkewörter (Plural !)	(λέξεις που περιγράφουν) ποτά
+der Student, die Studenten / die Studentin,	φοιτητής, φοιτήτρια
+der Keks, die Kekse	μπισκότο
+essen, er isst	τρώω
+endlich	επιτέλους
+das Essen	φαγητό
+total	[εδώ!] εντελώς
+das Sushi, die Sushis	σούσι
+der Fisch, die Fische	ψάρι
+doch	[αμετάφραστο μόριο που φανερώνει αντίρρηση]
+das Tier, die Tiere	ζώο
+vegetarisch	χορτοφαγικός
+aussehen, er sieht aus	φαίνομαι
+das Fleisch	κρέας
+der Food Blogger, die Food Blogger / die Food	φουντ μπλόγκερ
+der Mensch, die Menschen	άνθρωπος
+fotografieren, er fotografiert	φωτογραφίζω
+posten, er postet	ποστάρω, αναρτώ
+der Kommentar, die Kommentare	σχόλιο
+nerven, er nervt	εκνευρίζω
+die Kultur, die Kulturen	πολιτισμός, κουλτούρα
+das Leben	ζωή
+das Thema, die Themen	θέμα
+finden, er findet	βρίσκω, [εδώ!] θεωρώ
+die Speisekarte, die Speisekarten	κατάλογος (φαγητών)
+das Rind, die Rinder	βόδι, βοδινό
+scharf	καυτερός, πικάντικος
+das Schwein, die Schweine	γουρούνι, χοιρινό
+das Huhn, die Hühner	κότα, κοτόπουλο
+die Vorspeise, die Vorspeisen	ορεκτικό
+die Tomatensuppe	ντοματόσουπα
+das/die Beguette, die Baguettes	μπαγκέτα
+der Salat, die Salate	σαλάτα
+der Käse	τυρί
+die Tomate, die Tomaten	ντομάτα
+die Olive, die Oliven	ελιά
+das Hauptgericht, die Hauptgerichte	κύριο πιάτο
+das Steak, die Steaks	μπριζόλα, στέικ
+die Kartoffel, die Kartoffeln	πατάτα
+das Schnitzel, die Schnitzel	σνίτσελ
+der Kartoffelsalat	πατατοσαλάτα
+das Hähnchen, die Hähnchen	κοτόπουλο
+das Gemüse	λαχανικά
+der Hamburger, die Hamburger	μπέργκερ
+die Pommes (Frites) (Plural!)	πατάτες τηγανιτές
+das Gemüsecurry	κάρυ λαχανικών
+das Tofu	τόφου
+der Reis	ρύζι
+süß	γλυκός
+die Currywurst, die Currywürste	λουκάνικο με κάρυ
+das Schweinefleisch	χοιρινό (κρέας)
+fast	σχεδόν
+alles	όλα, τα πάντα
+wissen, er weiß	ξέρω
+stimmen, es stimmt	(είναι) σωστό
+die Suppe, die Suppen	σούπα
+die Pizza, die Pizzas/die Pizzen	πίτσα
+die Ananas	ανανάς
+denken, er denkt	σκέπτομαι, πιστεύω
+kommentieren, er kommentiert	σχολιάζω
+Hawaii	Χαβάη
+der Schinken, die Schinken	ζαμπόν
+Mensch!	Βρε!
+der Hunger (ich habe Hunger)	πείνα (πεινάω)
+die Idee, die Ideen (Gute Idee!)	ιδέα (Καλή ιδέα!)
+die Verneinung, die Verneinungen	άρνηση
+verneinen, er verneint	αρνούμαι, απαντώ αρνητικά
+das Adjektiv, die Adjektive	επίθετο [μέρος του λόγου]
+der Selbsttest, die Selbsttests	ατομικό τεστ
+lang	[εδώ!] μακρό
+kurz	[εδώ!] βραχύ
+der Vokal, die Vokale	φωνήεν
+die Spezialität, die Spezialitäten	σπεσιαλιτέ
+das Rösti	τηγανίτα από πατάτες
+das Allerlei	τουρλού, ανάμεικτα λαχανικά
+der Ortsname, die Ortsnamen	τοπωνύμιο
+der Blog, die Blogs	μπλογκ
+das Streetfood	φαγητό του δρόμου
+der Restauranttipp, die Restauranttipps	προτεινόμενο εστιατόριο
+das Lieblingsessen, die Lieblingsessen	αγαπημένο φαγητό
+das Archiv, die Archive	αρχείο
+die Lieblingssuppe, die Lieblingssuppen	αγαπημένη σούπα
+die Reisnudel, die Reisnudeln	ρυζομακάρονα
+das Rezept, die Rezepte	συνταγή
+echt	[εδώ!] πράγματι
+das Glück (zum Glück)	1. τύχη (ευτυχώς)     2. ευτυχία
+leider	δυστυχώς
+probieren, er probiert	δοκιμάζω
+mal	[εδώ!] μια φορά
+der Hobbykoch, die Hobbyköche / die Hobbyköchin,	ερασιτέχνης μάγειρας/μαγείρισσα
+pro	[εδώ!] υπέρ
+kontra	κατά
+Meine Top 3	Τα τρία αγαπημένα μου
+das Interview, die Interviews	συνέντευξη
+kombinieren, er kombiniert	συνδυάζω
+etwas	κάτι
+der Kuchen, die Kuchen	κέικ, γλυκό
+der Chai Latte	τσάι με γάλα
+die Gemüsesuppe, die Gemüsesuppen	χορτόσουπα
+die Kartoffelsuppe, die Kartoffelsuppen	πατατόσουπα
+die Nudelsuppe, die Nudelsuppen	σούπα με ζυμαρικά
+die Getränkekarte, die Getränkekarten	κατάλογος ποτών
+der Softdrink, die Softdrinks	μη αλκοολούχο ποτό
+das Gedicht, die Gedichte	ποίημα
+zum Beispiel	για παράδειγμα, π.χ.
+das Gericht, die Gerichte	[εδώ!] φαγητό, έδεσμα
+schmecken, es schmeckt	1. έχει γεύση, 2. είναι νόστιμο
+beschreiben, er beschreibt	περιγράφω
+der Akkusativ	αιτιατική
+das Ticket, die Tickets	εισιτήριο
+der Pass, die Pässe	διαβατήριο
+der Durst (ich habe Durst)	δίψα (διψάω)
+die Strategie, die Strategien	στρατηγική, τρόπος ενέργειας
+übersetzen, er übersetzt	μεταφράζω
+suchen, er sucht	ψάχνω, αναζητώ
+der Apfel, die Äpfel	μήλο
+der Thunfisch, die Thunfische	τόνος [ψάρι]
+die/der Salami, die Salamis	σαλάμι
+klingeln, er klingelt	χτυπώ (το κουδούνι)
+dankeschön	ευχαριστώ πολύ
+zählen, er zählt	μετράω
+die Party, die Partys	πάρτι
+klasse	θαυμάσιος
+okay	εντάξει
+die Partyaktivität, die Partyaktivitäten	δραστηριότητα στη διάρκεια ενός πάρτι
+das Spiel, die Spiele	παιχνίδι
+zuerst	πρώτα, στην αρχή
+fertig	τελειωμένος, έτοιμος
+raten, er rät	μαντεύω
+zwischen	μεταξύ, ανάμεσα σε …
+zu (+ Adjektiv / Adverb)	πολύ …
+genau	ακριβώς
+der Zettel, die Zettel	σημείωμα, χαρτάκι
+kleben, er klebt	κολλάω
+der Kopf, die Köpfe	κεφάλι
+der Mitspieler, die Mitspieler / die Mitspielerin,	συμπαίκτης, συμπαίκτρια
+das Bingo	μπίνγκο
+durchstreichen, er streicht durch	διαγράφω
+die Spaghetti (Plural!)	σπαγγέτι
+der Stopp, die Stopps	στάση
+der Buchstabe, die Buchstaben	γράμμα (του αλφαβήτου)
+die meisten	οι περισσότεροι, οι περισσότερες, τα περισσότερα
+gewinnen, er gewinnt, er hat gewonnen	κερδίζω
+legen, er legt	ακουμπώ, τοποθετώ, βάζω
+die Münze, die Münzen	κέρμα
+das Feld, die Felder	[εδώ!] κουτάκι
+die Aufgabe, die Aufgaben	άσκηση
+die Meinung, die Meinungen	γνώμη, άποψη
+konjugieren, ich konjugiere	κλίνω (ένα ρήμα)
+original	αυθεντικός
+das Klavier, die Klaviere	πιάνο
+lachen, er lacht	γελάω
+Auf Wiedersehen!	Στο επανιδείν! Αντίο!
+das geht	αυτό γίνεται
+die Fantasie	φαντασία
+schwer	1. δύσκολος, 2. βαρύς
+Das versteht kein Schwein!	Αυτό δεν το πιάνει κανείς!
+sortieren, er sortiert	ταξινομώ
+der Sieger, die Sieger / die Siegerin, die Siegerinnen	νικητής, νικήτρια
+der Marathon, die Marathons	μαραθώνιος (δρόμος)
+siegen, er siegt (über)	νικώ
+die Distanz, die Distanzen	απόσταση, διαδρομή
+der Sonntag, die Sonntage	Κυριακή
+die Stunde, die Stunden	ώρα [60 λεπτά]
+der Mann, die Männer	άνδρας
+die Frau, die Frauen	γυναίκα
+stattfinden, es findet statt	λαμβάνει χώρα, πραγματοποιείται
+der Kilometer, die Kilometer	χιλιόμετρο
+führen, er führt	οδηγώ
+durch	μέσα από
+das Quiz	κουίζ, διαγωνισμός γνώσεων
+dauern, es dauert	διαρκώ
+die Minute, die Minuten	λεπτό (της ώρας)
+das Ei, die Eier	αβγό
+kochen, er kocht	1. βράζω, 2. μαγειρεύω
+das Jahr, die Jahre	έτος, χρόνος, χρονιά
+schlafen, er schläft	κοιμάμαι
+der/die Deutsche, die Deutschen	Γερμανός, Γερμανίδα
+fernsehen, er sieht fern	βλέπω τηλεόραση
+einkaufen, er kauft ein	ψωνίζω, κάνω ψώνια
+der Monat, die Monate	μήνας
+der Tag, die Tage	ημέρα
+die Armbanduhr, die Armbanduhren	ρολόι χειρός
+die Weltzeituhr	παγκόσμιο ρολόι
+der Platz, die Plätze	[εδώ!] πλατεία
+die Sekunde, die Sekunden	δευτερόλεπτο
+Wie viel Uhr ist es?	Τι ώρα είναι;
+stoppen, er stoppt (die Zeit)	[εδώ!] χρονομετρώ
+wie lange?	πόσο, πόση ώρα;
+gehen, er geht	πηγαίνω
+der Fahrplan, die Fahrpläne	δρομολόγιο
+der Termin, die Termine	ραντεβού
+frühstücken, er frühstückt	προγευματίζω
+die Umfrage, die Umfragen	δημοσκόπηση, έρευνα
+das Terminproblem, die Terminprobleme	πρόβλημα με ένα ραντεβού
+die Uhrzeit, die Uhrzeiten	ώρα, ένδειξη ώρας
+leidtun, es tut (mir) leid	λυπάμαι
+die S-Bahn, die S-Bahnen	(επίγειο) ηλεκτρικό (τρένο)
+ausfallen, er fällt aus	ακυρώνομαι
+der Bus, die Busse	λεωφορείο
+halb	μισός
+o.k.	εντάξει
+Auf Wiederhören!	Τα ξαναλέμε! Αντίο! [στο τηλέφωνο]
+formell	επίσημος, τυπικός
+abfahren, er fährt ab	αναχωρώ
+die Linie, die Linien	γραμμή
+um …	στις … (η ώρα)
+spät	αργά
+Wie spät ist es?	Τι ώρα είναι;
+informell	ανεπίσημος
+vor (kurz vor ...)	[εδώ!] πριν (λίγο πριν τις …)
+das Viertel, die Viertel	το τέταρτο
+die Weltzeit	παγκόσμια ώρα
+jetzt	τώρα
+der Montag, die Montage	Δευτέρα
+der Terminkalender, die Terminkalender	ατζέντα, ημερολόγιο
+der Wochentag, die Wochentage	ημέρα της εβδομάδας
+der Dienstag, die Dienstage	Τρίτη
+der Mittwoch, die Mittwoche	Τετάρτη
+gestern	χθες
+abholen, er holt ab	περνάω και παίρνω
+die Telefonkonferenz, die Telefonkonferenzen	τηλεφωνική σύσκεψη, τηλεδιάσκεψη
+das Training, die Trainings	προπόνηση
+ausschalten, er schaltet aus	κλείνω [συσκευή]
+das Wochenende, die Wochenenden	σαββατοκύριακο
+ausschlafen, er schläft aus	χορταίνω ύπνο, κοιμάμαι ως αργά
+der Kalender, die Kalender	ημερολόγιο
+trennbar	χωριζόμενος
+der Infinitiv, die Infinitive	απαρέμφατο
+das Satzende	τέλος της πρότασης
+der Freitag, die Freitage	Παρασκευή
+der Samstag, die Samstage	Σάββατο
+die Wortfrage, die Wortfragen	ερώτηση μερικής άγνοιας
+die Tageszeit, die Tageszeiten	διάστημα της ημέρας
+morgens	το πρωί, τα πρωινά
+abends	το βράδυ, τα βράδια
+der Morgen	πρωί
+der Vormittag, die Vormittage	πρωί
+der Mittag, die Mittage	μεσημέρι
+der Nachmittag, die Nachmittage	απόγευμα, απομεσήμερο
+die Nacht, die Nächte	νύχτα
+Gute Nacht!	Καληνύχτα!
+Guten Abend!	Καλησπέρα!
+der Friseur/Frisör, die Friseure/Frisöre / die Friseurin/	κουρέας, κομμωτής, κομμώτρια
+ganz	ολόκληρος, [εδώ!] εντελώς
+normal	κανονικός, [εδώ!] συνηθισμένος
+der Donnerstag, die Donnerstage	Πέμπτη
+ansehen, er sieht an	κοιτάζω
+der Bäcker, die Bäcker / die Bäckerin, die Bäckerinnen	φούρναρης, φουρνάρισσα
+beide	(και) οι δύο
+eintragen, er trägt ein	καταχωρώ, σημειώνω
+aufstehen, er steht auf	σηκώνομαι
+weggehen, er geht weg	φεύγω
+backen, er backt/bäckt	ψήνω, φουρνίζω
+die Uni, die Unis / die Universität, die Universitäten	πανεπιστήμιο
+fahren, er fährt	πηγαίνω (με το αυτοκίνητο / μέσο μαζικής μεταφοράς)
+das Bett, die Betten (ins Bett gehen)	κρεβάτι
+der Test, die Tests	τεστ, διαγώνισμα
+vorbereiten, er bereitet vor	προετοιμάζω
+gemeinsam	από κοινού, μαζί
+die Tätigkeit, die Tätigkeiten	δραστηριότητα
+prima	τέλειος, τέλεια
+einladen, er lädt ein	προσκαλώ
+die Einladung, die Einladungen	πρόσκληση
+beantworten, er beantwortet	απαντώ
+lieb	αγαπητός
+die Pasta	ζυμαρικό, ζυμαρικά
+egal	αδιάφορο, το ίδιο κάνει
+die Buslinie, die Buslinien	λεωφορειακή γραμμή
+der Wein, die Weine	κρασί
+mitbringen, er bringt mit	φέρνω (μαζί μου)
+freuen (sich), er freut sich	χαίρομαι
+LG (= Liebe Grüße)	χαιρετίσματα, σε/σας χαιρετώ
+die Sprachnachricht, die Sprachnachrichten	ακουστικό μήνυμα
+die Textnachricht, die Textnachrichten	γραπτό μήνυμα
+die Notiz, die Notizen	σημείωση
+der Zeitungsartikel, die Zeitungsartikel	άρθρο εφημερίδας
+der Weltrekord, die Weltrekorde	παγκόσμιο ρεκόρ
+die Weltrekordzeit, die Weltrekordzeiten	χρόνος που αποτελεί παγκόσμιο ρεκόρ
+alt (33 Jahre alt)	μεγάλος, γέρος, παλιός (33 ετών)
+so um ...	κατά τις … (η ώρα)
+die Konferenz, die Konferenzen	σύσκεψη, συνεδρίαση
+anfangen, er fängt an	αρχίζω
+mitkommen, er kommt mit	έρχομαι (μαζί)
+die Kaffeepause, die Kaffeepausen	διάλειμμα για καφέ
+die Landeskunde	πληροφορίες για τη χώρα
+beginnen, er beginnt	αρχίζω
+der Arzt, die Ärzte / die Ärztin, die Ärztinnen	γιατρός, γιατρίνα
+das Tennis	τένις
+treffen (sich), er trifft (sich)	συναντώ
+das/der Yoga	γιόγκα
+das Frühstück	πρόγευμα, πρωϊνό
+der Frisörtermin, die Frisörtermine	ραντεβού στο κουρείο/κομμωτήριο
+der Tagesablauf, die Tagesabläufe	πώς περνά η μέρα
+die Landesbibliothek, die Landesbibliotheken	βιβλιοθήκη (ομοσπονδιακού κρατιδίου)
+geschlossen	κλειστός
+der Paketservice	υπηρεσία διακίνησης πακέτων
+die Öffnungszeiten (Plural!)	ώρες λειτουργίας
+der Aktionstag, die Aktionstage	ημέρα ειδικών προσφορών
+der Döner	γύρος, ντονέρ
+ich hätte gern ...	θα ήθελα …
+das Videokaraoke	καραόκε με βίντεο
+frei (ich habe frei)	ελεύθερος (δεν δουλεύω, είμαι ελεύθερος)
+die Zeitangabe, die Zeitangaben	χρονικός προσδιορισμός
+der Sprachkurs, die Sprachkurse	μαθήματα ξένων γλωσσών
+donnerstags	την Πέμπτη, τις Πέμπτες
+die Abfahrtszeit, die Abfahrtszeiten	ώρα αναχώρησης
+das Brandenburger Tor	Πύλη του Βραδεμβούργου
+der Fotojournalist, die Fotojournalisten /	φωτορεπόρτερ
+der Reiseführer, die Reiseführer / die Reiseführerin,	ξεναγός
+unterwegs	καθ‘ οδόν, στο δρόμο
+der Zug, die Züge	τρένο
+pünktlich	έγκαιρος, στην ώρα του
+der Hauptbahnhof, die Hauptbahnhöfe	κεντρικός σιδηροδρομικός σταθμός
+die Tour, die Touren	γύρος, βόλτα, περίπατος
+das Fahrrad, die Fahrräder	ποδήλατο
+die Sehenswürdigkeit, die Sehenswürdigkeiten	αξιοθέατο
+der Tourist, die Touristen / die Touristin, die Touristinnen	τουρίστας, τουρίστρια
+das Selfie, die Selfies	σέλφι
+der Fuß, die Füße (zu Fuß)	πόδι (με τα πόδια)
+der Aufzug, die Aufzüge	ασανσέρ, ανελκυστήρας
+die Kuppel, die Kuppeln	θόλος
+nie	ποτέ
+das Panorama	πανοραμική άποψη
+die Gruppe, die Gruppen	γκρουπ, ομάδα
+der Zoo, die Zoos	ζωολογικός κήπος
+der Reichstag	γερμανικό κοινοβούλιο
+der Treffpunkt, die Treffpunkte	σημείο συνάντησης
+die Museumsinsel	νήσος των μουσείων
+der Fernsehturm, die Fernsehtürme	πύργος τηλεπικοινωνιών
+der Checkpoint, die Checkpoints	σημείο ελέγχου/διάβασης [πρώην ανατολικό Βερολίνο]
+das Reisejournal, die Reisejournale	ταξιδιωτικό περιοδικό
+der Favorit, die Favoriten	αγαπημένο, δημοφιλές, φαβορί
+absolut	απόλυτος, απολύτως/εντελώς
+das Programm, die Programme	πρόγραμμα
+die Info, die Infos	πληροφορία
+das Rad, die Räder	ρόδα, [εδώ!] ποδήλατο
+ab …	από …
+der März	Μάρτιος
+der Oktober	Οκτώβριος
+Polnisch	πολωνικά
+die Reservierung, die Reservierungen	κράτηση (θέσης)
+der Start	αφετηρία, ξεκίνημα, εκκίνηση
+der Fotostopp, die Fotostopps	στάση για φωτογράφιση
+das Pergamonmuseum	Μουσείο της Περγάμου
+das Ende	τέλος, τέρμα
+das Präteritum	παρατατικός
+das Verkehrsmittel, die Verkehrsmittel	μέσο (μαζικής) μεταφοράς
+das Auto, die Autos	αυτοκίνητο
+die U-Bahn, die U-Bahnen	μετρό, υπόγειος σιδηρόδρομος
+manchmal	μερικές φορές
+das Motorrad, die Motorräder	μοτοσυκλέτα, μοτοσακό
+der E-Roller, die E-Roller	ηλεκτρικό ποδήλατο
+die Fahrplaninformation, die Fahrplaninformationen	πληροφορία δρομολογίων
+die Haltestelle, die Haltestellen	στάση (ΜΜΜ)
+umsteigen, er steigt um	αλλάζω (ΜΜΜ)
+die Direktverbindung, die Direktverbindungen	απευθείας σύνδεση
+das Detail, die Details	λεπτομέρεια
+nachsehen, er sieht nach	κοιτάζω, ψάχνω
+also	λοιπόν
+weiterfahren, er fährt weiter	συνεχίζω (τη διαδρομή / το ταξίδι)
+die Verbindung, die Verbindungen	σύνδεση
+der Fußweg, die Fußwege	διαδρομή με τα πόδια, ποδαρόδρομος
+rechts	δεξιά
+aussprechen, er spricht aus	προφέρω
+der Stadtpark, die Stadtparks	πάρκο (της πόλης)
+das Theater, die Theater	θέατρο
+das Plakatprojekt, die Plakatprojekte	δημιουργία ενός πλακάτ
+die Favoritenliste, die Favoritenlisten	κατάλογος των δημοφιλών σημείων
+präsentieren, er präsentiert	παρουσιάζω
+die Orientierung	προσανατολισμός
+das Hotel, die Hotels	ξενοδοχείο
+die Wegbeschreibung, die Wegbeschreibungen	περιγραφή διαδρομής
+die Angabe, die Angaben	δεδομένο, στοιχείο
+der Standort, die Standorte	τοποθεσία
+Zoologischer Garten	Ζωολογικός Κήπος
+über ...	[εδώ!] μέσω …
+abbiegen, er biegt ab	στρίβω
+der Eingang, die Eingänge	είσοδος
+das Elefantentor	πύλη των ελεφάντων
+links	αριστερά
+geradeaus	ίσια μπρος, ευθεία
+die Richtung, die Richtungen (in Richtung ...)	κατεύθυνση (με κατεύθυνση προς …)
+einzeichnen, er zeichnet ein	χαράζω, σχεδιάζω
+der Bahnhof, die Bahnhöfe	(σιδηροδρομικός) σταθμός
+schön	ωραίος
+weit	μακριά
+der Supermarkt, die Supermärkte	σούπερ-μάρκετ
+das Ziel, die Ziele	στόχος
+weitere	περαιτέρω
+der Weg, die Wege	δρόμος, [εδώ!] διαδρομή
+dein, deine, dein	δικός σου, δική σου, δικό σου
+wem	σε ποιον
+gehören, es gehört	ανήκω
+der USB-Stick, die USB-Sticks	στικάκι (αποθήκευσης δεδομένων)
+sein, seine, sein	δικός του, δική του, δικό του
+ihr, ihre, ihr	δικός της, δική της, δικό της, [εδώ!] δικά της
+der Schlüssel, die Schlüssel	κλειδί
+der Kontrastakzent, die Kontrastakzente	τόνος που εκφράζει αντίθεση
+die Zeichnung, die Zeichnungen	σχέδιο, ζωγραφιά
+zeigen, er zeigt	δείχνω
+planen, er plant	σχεδιάζω
+die Städtereise, die Städtereisen	ταξίδι σε μια πόλη, city tour
+bleiben, er bleibt	μένω
+starten, er startet	ξεκινώ
+die Reise, die Reisen	ταξίδι
+besichtigen, er besichtigt	επισκέπτομαι, πηγαίνω να δω
+dort	εκεί
+schon	ήδη
+warten, er wartet	περιμένω
+der Berliner Dom	καθεδρικός ναός του Βερολίνου
+einsteigen, er steigt ein	ανεβαίνω, επιβιβάζομαι
+aussteigen, er steigt aus	κατεβαίνω, αποβιβάζομαι
+die Navigation	πλοήγηση
+nennen, er nennt	ονομάζω, [εδώ!] αναφέρω
+unser, unsere, unser	δικός/δική/δικό μας
+euer, eure, euer	δικός/δική/δικό σας
+der Job, die Jobs	δουλειά
+die Bibliothek, die Bibliotheken	βιβλιοθήκη
+das Büro, die Büros	γραφείο
+die Küche, die Küchen	κουζίνα
+der Raum, die Räume	χώρος
+die Firma, die Firmen	εταιρεία
+die Agentur, die Agenturen	πρακτορείο, γραφείο
+die Empfangshalle, die Empfangshallen	χώρος υποδοχής
+der Kopierraum, die Kopierräume	χώρος φωτοτυπικών (μηχανημάτων)
+der Konferenzraum, die Konferenzräume	αίθουσα συνεδριάσεων
+die Kantine, die Kantinen	καντίνα
+kreativ	δημιουργικός
+direkt	άμεσος
+die Design-Agentur, die Design-Agenturen	γραφείο ντιζάιν
+der Mitarbeiter, die Mitarbeiter / die Mitarbeiterin,	συνεργάτης, συνεργάτρια
+das Design	ντιζάιν, δημιουργικό σχέδιο
+das Management	διοίκηση (επιχείρησης), μάνατζμεντ
+die IT (= Informationstechnologie)	τεχνολογία πληροφοριών
+der Assistent, die Assistenten / die Assistentin,	βοηθός
+interessant	ενδιαφέρων
+tun, er tut	κάνω
+die Aufgabe, die Aufgaben	[εδώ!] καθήκον
+organisieren, er organisiert	οργανώνω, διοργανώνω
+die E-Mail, die E-Mails	ηλεκτρονικό μήνυμα, email
+begrüßen, er begrüßt	χαιρετώ, [εδώ!] υποδέχομαι
+das Gebäude, die Gebäude	κτίριο
+erst-	πρώτος, πρώτη, πρώτο
+der Arbeitstag, die Arbeitstage	ημέρα εργασίας
+wichtig	σπουδαίος, σημαντικός
+der Programmierer, die Programierer /	προγραμματιστής, προγραματίστρια
+erst-	πρώτος
+die Etage, die Etagen	πάτωμα, όροφος
+entschuldigen (sich), er entschuldigt sich	ζητώ συγνώμη
+die Toilette, die Toiletten	τουαλέτα
+der Ausgang, die Ausgänge	έξοδος
+die Sprachschule, die Sprachschulen	κέντρο ξένων γλωσσών, φροντιστήριο
+das Lehrerzimmer, die Lehrerzimmer	γραφείο καθηγητών
+das Erdgeschoss, die Erdgeschosse	ισόγειο
+das Sekretariat, die Sekretariate	γραμματεία
+der Fahrstuhl, die Fahrstühle	ασανσέρ, ανελκυστήρας
+dritt-	τρίτος, τρίτη, τρίτο
+siebt-	έβδομος, έβδομη, έβδομο
+der Podcast, die Podcasts	podcast, φωνητικό άρθρο στο διαδίκτυο
+erklären, er erklärt	εξηγώ
+kaufen, er kauft	αγοράζω
+das Projekt, die Projekte	πρόγραμμα, πρότζεκτ
+das Dokument, die Dokumente	[εδώ!] έντυπο
+kopieren, er kopiert	φωτοτυπώ
+die Präsentation, die Präsentationen	παρουσίαση
+die Organisation	διοργάνωση
+das Intranet	ιδιωτικό δίκτυο ΗΥ, ενδοδίκτυο, intranet
+Freut mich!	Χαίρω πολύ!
+Wie geht es Ihnen?	Πώς είστε;
+bisher	μέχρι τώρα
+der Entwickler, die Entwickler / die Entwicklerin,	δημιουργός software
+Schön, dich zu sehen.	Χαίρομαι που σε βλέπω.
+grüßen, er grüßt	χαιρετώ
+geben, er gibt	δίνω
+der Kollege, die Kollegen / die Kollegin, die Kolleginnen	συνάδελφος
+die Hand, die Hände	χέρι
+das Regal, die Regale	ράφι
+die Maus, die Mäuse	ποντίκι
+die Tastatur, die Tastaturen	πληκτρολόγιο
+der Notizblock, die Notizblöcke	σημειωματάριο
+die Pflanze, die Pflanzen	φυτό
+der Ordner, die Ordner	ντοσιέ
+die Lampe, die Lampen	λάμπα
+das Magazin, die Magazine	περιοδικό
+der Papierkorb, die Papierkörbe	κάλαθος αχρήστων
+das Fenster, die Fenster	παράθυρο
+das Tablet, die Tablets	τάμπλετ
+aufschreiben, er schreibt auf	σημειώνω
+neben	δίπλα από/σε …
+auf	πάνω σε …
+liegen, er liegt	είμαι, βρίσκομαι (ακουμπισμένος), ξαπλώνω
+unter	κάτω από …
+die Wand, die Wände	τοίχος
+hängen, es hängt	κρέμομαι
+über	πάνω από …
+das Whiteboard, die Whiteboards	λευκός πίνακας
+zeichnen, er zeichnet	ζωγραφίζω, σχεδιάζω
+der Schreibtisch, die Schreibtische	γραφείο [έπιπλο]
+die Pluralform, die Pluralformen	τύπος πληθυντικού
+diskutieren, er diskutiert	συζητώ
+der Kunde, die Kunden / die Kundin, die Kundinnen	πελάτης, πελάτισσα
+der Gruppenraum, die Gruppenräume	χώρος για ομάδες
+sitzen, er sitzt	κάθομαι
+das Bürogebäude, die Bürogebäude	κτίριο γραφείων
+die Möglichkeit, die Möglichkeiten	πιθανότητα, δυνατότητα
+sofort	αμέσως
+die Präposition, die Präpositionen	πρόθεση
+die Ordnungszahl, die Ordnungszahlen	τακτικό αριθμητικό
+die Freizeit	ελεύθερος χρόνος, ελεύθερη ώρα
+das Hobby, die Hobbys	χόμπι
+das Skifahren (ich fahre Ski)	σκι, χιονοδρομία (κάνω σκι)
+der Ersti, die Erstis	πρωτάκι, φοιτητής/φοιτήτρια στο πρώτο εξάμηνο
+das Treffen, die Treffen	συνάντηση
+die Mensa, die Mensas/Mensen	φοιτητικό εστιατόριο
+der Tanzkurs, die Tanzkurse	μαθήματα χορού
+aktuell	επίκαιρος
+der Kletterkurs, die Kletterkurse	μαθήματα αναρρίχησης
+der Sport-Campus	αθλητικές εγκαταστάσεις (του πανεπιστημίου)
+das Handlettering	ζωγραφική καλλιγραφία, καλλιτεχνική γραφή
+klettern, er klettert	σκαρφαλώνω
+tanzen, er tanzt	χορεύω
+die Gitarre, die Gitarren	κιθάρα
+das Studium	σπουδές
+der Berg, die Berge	βουνό
+die Bergbahn, die Bergbahnen	ορεινός σιδηρόδρομος
+das Stadtzentrum, die Stadtzentren	κέντρο της πόλης
+attraktiv	ελκυστικός
+der Professor, die Professoren / die Professorin,	καθηγητής/καθηγήτρια πανεπιστημίου
+das Ausland	το εξωτερικό
+ideal	ιδανικός, ιδεώδης
+die Kombination, die Kombinationen	συνδυασμός
+radfahren, ich fahre Rad, er fährt Rad	κάνω ποδήλατο
+der Winter, die Winter	χειμώνας
+das Snowboarden	σνόουμπορντ [ως άθλημα]
+das Eisklettern	αναρρίχηση στους πάγους
+der/die Sportstudierende, die Sportstudierenden	φοιτητής/φοιτήτρια της Γυμναστικής Ακαδημίας
+wandern, er wandert	πεζοπορώ
+die Volkshochschule, die Volkshochschulen	λαϊκό πανεπιστήμιο
+der Hobbykurs, die Hobbykurse	μαθήματα για χόμπι
+das Angebot, die Angebote	προσφορά
+die Altstadt, die Altstädte	παλιά πόλη
+das Gebirge, die Gebirge	οροσειρά
+drinnen	μέσα
+draußen	έξω
+das Campusradio	φοιτητικός ραδιοφωνικός σταθμός του πανεπιστημίου
+der Moderator, die Moderatoren / die Moderatorin,	παρουσιαστής, παρουσιάστρια
+das Semester, die Semester	εξάμηνο (σπουδών)
+der Wintersportfan, die Wintersportfans	φίλος των χειμερινών σπορ
+die Biologie	Βιολογία
+der Kontakt, die Kontakte	επαφή
+die Germanistik	Γερμανική Φιλολογία
+die Club-Szene	νυχτερινή ζωή
+ausgehen, er geht aus	βγαίνω έξω για διασκέδαση
+ziemlich	αρκετά
+das Rodeln	κατάβαση με έλκηθρο
+das Eislaufen	παγοδρομία
+das Zentrum, die Zentren	κέντρο
+das Sportprogramm, die Sportprogramme	αθλητικό πρόγραμμα
+die Fitness	καλή φυσική κατάσταση
+trainieren, er trainiert	1. προπονούμαι, γυμνάζομαι, 2. γυμνάζω
+das Figln	σκι σε χιόνι που έχει αρχίσει να λιώνει
+warm	ζεστός
+der April	Απρίλιος
+der Schnee	χιόνι
+nass	υγρός
+der Kurz-Ski, die Kurz-Ski(er)	κοντό σκι
+der Grund, die Gründe	λόγος
+das Radio, die Radios	ραδιόφωνο
+weltweit	παγκόσμιος, σε όλο τον κόσμο
+das Speeddating	ταχυραντεβού, ραντεβού αστραπή
+wechseln, er wechselt	αλλάζω
+die Alpen (Plural!)	Άλπεις
+die Form, die Formen	τύπος
+das Seminar, die Seminare	σεμινάριο
+der Geburtstag, die Geburtstage	γενέθλια
+kaputt	χαλασμένος
+die Autogrammjagd	κυνήγι αυτογράφων
+die Unterschrift, die Unterschriften	υπογραφή
+klingen, es klingt	ηχώ, ακούγομαι
+der Manager, die Manager / die Managerin,	μάνατζερ
+das Wintersemester	χειμερινό εξάμηνο
+der Niederländer, die Niederländer /	Ολλανδός, Ολλανδέζα
+deutlich	καθαρός, σαφής
+klein	μικρός, [εδώ!] σύντομος/κοφτός
+das Modalverb, die Modalverben	τροπικό ρήμα
+der Aussagesatz, die Aussagesätze	καταφατική πρόταση
+die Lieblingsstadt, die Lieblingsstädte	αγαπημένη πόλη
+die Wortverbindung, die Wortverbindungen	συνδυασμός λέξεων
+das Studienfach, die Studienfächer	κλάδος σπουδών
+die Werkstatt, die Werkstätten	συνεργείο
+Medizin	[εδώ!] Ιατρική
+der Tourismus	τουρισμός
+die Ostsee	Βόρεια Θάλασσα
+nah	κοντά
+schwimmen, er schwimmt	κολυμπώ
+das Schreibtraining	άσκηση γραπτής έκφρασης
+ausbauen, er baut aus	επεκτείνω
+mehrere (Plural!)	αρκετοί, αρκετές, αρκετά
+der Uni-Termin, die Uni-Termine	δουλειά στο πανεπιστήμιο
+der Anfänger, die Anfänger / die Anfängerin,	αρχάριος, αρχάρια
+der Bericht, die Berichte	έκθεση
+die Slowakei	Σλοβακία
+der Club, die Clubs	κλαμπ, ντισκοτέκ, χορευτικό κέντρο
+die Wohngemeinschaft/WG, die Wohngemein-	συγκατοίκηση, διαμέρισμα που μοιράζονται πολλοί
+das Mittagsangebot, die Mittagsangebote	μεσημεριανή προσφορά
+die Roulade, die Rouladen	ρολό (με κρέας)
+das Rotkraut	κόκκινο λάχανο
+türkisch	τούρκικος
+die Linsensuppe	σούπα με φακές
+das Ergebnis, die Ergebnisse	αποτέλεσμα
+die Hobbymannschaft, die Hobbymannschaften	ομάδα ερασιτεχνών
+das Mittagessen	μεσημεριανό, γεύμα
+grillen, er grillt	ψήνω (στα κάρβουνα), κάνω μπάρμπεκιου
+die Abfahrt	αναχώρηση
+der Stau, die Staus	μποτιλιάρισμα
+angeln, er angelt	ψαρεύω
+die Aktivität, die Aktivitäten	δραστηριότητα
+das Partnerwort, die Partnerwörter	λέξη που ταιριάζει με μια άλλη
+der Grammatikbegriff, die Grammatikbegriffe	γραμματικός όρος
+der Possessivartikel, die Possessivartikel	κτητική αντωνυμία
+tauschen, er tauscht	ανταλλάσσω
+die Wortschatzübung, die Wortschatzübungen	άσκηση λεξιλογίου
+selber	ο ίδιος, μόνος μου
+das Foyer, die Foyers	φουαγιέ, προθάλαμος
+der Altenpfleger, die Altenpfleger / die Altenpflegerin,	πρόσωπο που φροντίζει ηλικιωμένους
+die Jacke, die Jacken	ζακέτα
+der Baum, die Bäume	δέντρο
+das Kind, die Kinder	παιδί
+das Haus, die Häuser	σπίτι
+vorlesen, er liest vor	διαβάζω φωναχτά, απαγγέλλω
+aufnehmen, er nimmt auf	ηχογραφώ
+das Zuhause	σπίτι, σπιτικό
+zu Hause	στο σπίτι
+die Tochter, die Töchter	κόρη, θυγατέρα
+die Wohnung, die Wohnungen	διαμέρισμα, κατοικία
+das Zimmer, die Zimmer	δωμάτιο
+das Arbeitszimmer, die Arbeitszimmer	γραφείο [δωμάτιο]
+das Kinderzimmer, die Kinderzimmer	παιδικό δωμάτιο
+lieben, er liebt	αγαπώ
+das Wohnzimmer, die Wohnzimmer	καθιστικό
+gemütlich	άνετος, αναπαυτικός
+hell	1. φωτεινός, 2. ανοιχτόχρωμος
+das Sofa, die Sofas	καναπές
+der Teppich, die Teppiche	χαλί
+reden, er redet	μιλώ
+das Badezimmer, die Badezimmer	μπάνιο, λουτρό
+der Balkon, die Balkons/Balkone	μπαλκόνι
+das Homeoffice	τηλεργασία, δουλειά από το σπίτι
+der Nachbar, die Nachbarn / die Nachbarin,	γείτονας, γειτόνισσα
+nett	ευγενικός, συμπαθητικός
+entspannen (sich), er entspannt (sich)	χαλαρώνω
+der Fernseher, die Fernseher	τηλεόραση [συσκευή]
+teilen, er teilt	[εδώ!] μοιράζομαι
+jeder, jedes, jede	ο καθένας, η καθεμιά, το καθένα
+der Sessel, die Sessel	πολυθρόνα
+der Film, die Filme	ταινία, φιλμ
+das Schlafzimmer, die Schlafzimmer	υπνοδωμάτιο
+der Flur, die Flure	χολ
+die Hypothese, die Hypothesen	υπόθεση
+der Plan, die Pläne	σχέδιο
+prüfen, er prüft	ελέγχω
+die Hausaufgabe, die Hausaufgaben	(σχολική) δουλειά για το σπίτι
+das Bücherregal, die Bücherregale	ράφι για βιβλία
+der Schrank, die Schränke	ντουλάπα
+die Kommode, die Kommoden	κομό
+der Herd, die Herde	ηλεκτρική κουζίνα
+der Kühlschrank, die Kühlschränke	ψυγείο
+die Spüle, die Spülen	νεροχύτης
+das Kompositum, die Komposita	σύνθετο ουσιαστικό
+die Küchenuhr, die Küchenuhren	ρολόι κουζίνας
+das Grundwort, die Grundwörter	βασική λέξη
+bestimmen, er bestimmt	καθορίζω, ορίζω
+das System, die Systeme	σύστημα
+das Paar, die Paare	ζευγάρι, ζεύγος
+das Wortpaar, die Wortpaare	ζευγάρι λέξεων
+die Katze, die Katzen	γάτα
+hinter	πίσω από …
+leicht	ελαφρύς
+modern	μοντέρνος
+dunkel	1. σκούρος     2. σκοτεινός
+günstig	[εδώ!] σε καλή/συμφέρουσα τιμή
+übertreiben, er übertreibt	υπερβάλλω
+das Tiny House, die Tiny Houses	σπιτάκι
+positiv	θετικός
+negativ	αρνητικός
+klein, aber oho	μικρός αλλά μια χαρά
+mobil	κινητός
+elegant	κομψός
+der Trend, die Trends	τάση
+die Traumwohnung, die Traumwohnungen	κατοικία των ονείρων
+laut	[εδώ!] θορυβώδης, με φασαρία
+das Geld	χρήματα
+der Blogeintrag, die Blogeinträge	ποστάρισμα (σε μπλογκ)
+ruhig	ήσυχος
+das Studententicket, die Studententickets	φοιτητικό εισιτήριο, πάσο
+praktisch	πρακτικός
+die Zeilennummer, die Zeilennummern	αριθμός της αράδας
+die Zeile, die Zeilen	αράδα, γραμμή (κειμένου)
+Wie viele ...?	Πόσοι/Πόσες/Πόσα
+die Leselampe, die Leselampen	λαμπατέρ
+das Schlafsofa, die Schlafsofas	καναπές-κρεβάτι
+der Esstisch, die Esstische	τραπέζι φαγητού
+die Stehlampe, die Stehlampen	φωτιστικό δαπέδου
+der Fernsehsessel, die Fernsehsessel	πολυθρόνα για τηλεόραση
+schade	κρίμα
+die Wohnform, die Wohnformen	τύπος κατοικίας
+die Familie, die Familien	οικογένεια
+die Großeltern (Plural!)	παππούς και γιαγιά, παππούδες
+die Eltern (Plural!)	γονείς
+der Onkel, die Onkel	θείος
+die Tante, die Tanten	θεία
+der Bruder, die Brüder	αδελφός
+die Schwester, die Schwestern	αδελφή
+der Sohn, die Söhne	γιος
+der Neffe, die Neffen	ανηψιός
+der Cousin, die Cousins / die Cousine, die Cousinen	ξάδελφος, ξαδέλφη
+die Nichte, die Nichten	ανηψιά
+das Alter	ηλικία
+die Geschwister (Plural!)	αδέλφια
+der Familienstand	οικογενειακή κατάσταση
+geschieden	διαζευγμένος
+verheiratet	παντρεμένος, έγγαμος
+das Enkelkind, die Enkelkinder	εγγόνι
+der Enkel, die Enkel / die Enkelin, die Enkelinnen	εγγονός, εγγονή
+ledig	ανύπαντρος, άγαμος
+der Urenkel, die Urenkel / die Urenkelin, die Urenkelinnen	δισέγγονος, δισεγγονή
+die Großmutter, die Großmütter	γιαγιά
+das Familienwort, die Familienwörter	λέξη που περιγράφει συγγενική σχέση
+der Familienbaum, die Familienbäume	γενεαλογικό δέντρο
+die Bäckerei, die Bäckereien	αρτοποιείο
+die Generation, die Generationen	γενεά, γενιά
+die Jahreszahl, die Jahreszahlen	χρονολογία
+der Familienbetrieb, die Familienbetriebe	οικογενειακή επιχείρηση
+der Großvater, die Großväter	παππούς
+heiraten, er heiratet	παντρεύομαι
+die Großbäckerei, die Großbäckereien	μεγάλο αρτοποιείο
+bauen, er baut	χτίζω, φτιάχνω
+der Betrieb, die Betriebe	επιχείρηση
+leiten, er leitet	διευθύνω
+der Backshop, die Backshops	πρατήριο
+gründen, er gründet	ιδρύω
+der/die Angestellte, die Angestellten	ιδιωτικός υπάλληλος
+das Erfolgsrezept, die Erfolgsrezepte	συνταγή επιτυχίας
+privat	ιδιωτικός, ιδιωτικά
+das Partizip, die Partizipien	μετοχή [μέρος του λόγου]
+das Partizip II	μετοχή παρακειμένου
+der Verbstamm	θέμα του ρήματος
+enden, er endet	τελειώνω, [εδώ!] λήγω
+regelmäßig	[εδώ!] ομαλός
+vorne	μπρος
+hinten	πίσω
+der Perfektsatz, die Perfektsätze	πρόταση στον παρακείμενο
+der Bankkaufmann, die Bankkaufmänner /	(ειδικευμένος) τραπεζοϋπάλληλος
+mieten, er mietet	νοικιάζω
+der Blogger, die Blogger / die Bloggerin,	μπλόγκερ
+der Kaffeeklatsch	κουβεντούλα (πίνοντας καφέ)
+der Haushalt, die Haushalte	νοικοκυριό
+die Oma, die Omas	γιαγιά
+mehr	[εδώ!] πια
+erstellen, er erstellt	δημιουργώ, φτιάχνω
+die Dialoggrafik, die Dialoggrafiken	σχέδιο διαλόγου
+stressig	αγχωτικός
+der Opa, die Opas	παππούς
+der Vater, die Väter	πατέρας
+der Vati / der Papa / der Papi	μπαμπάς, μπαμπάκας
+die Mutter, die Mütter	μητέρα
+die Mutti / die Mama / die Mami	μαμά, μανούλα
+das Familienfoto, die Familienfotos	οικογενειακή φωτογραφία
+das Startup, die Startups	νεοφυής επιχείρηση
+die Grafik, die Grafiken	γραφική απεικόνιση
+erzählen, er erzählt	διηγούμαι
+der Journalist, die Journalisten / die Journalistin,	δημοσιογράφος
+der Fotograf, die Fotografen / die Fotografin,	φωτογράφος
+die Zeitung, die Zeitungen	εφημερίδα
+der Fotoladen, die Fotoläden	φωτογραφείο, κατάστημα φωτογραφικών ειδών
+das Möbeldesign	σχεδιασμός επίπλων
+das Diktat, die Diktate	ορθογραφία
+mitschreiben, er schreibt mit	γράφω (όπως ακούω κάτι)
+der Familienbesuch	επίσκεψη από συγγενείς
+das Familienmitglied, die Familienmitglieder	μέλος της οικογένειας
+die Verwandtschaft, die Verwandtschaften	συγγενείς, συγγενολόι
+das Perfekt	παρακείμενος
+reparieren, er repariert	επιδιορθώνω, επισκευάζω
+verkaufen, er verkauft	πουλάω
+der Check, die Checks	έλεγχος
+der Automobilkaufmann / die Automobilkauffrau,	πωλητής/πωλήτρια αυτοκινήτων
+der Mechatroniker, die Mechatroniker /	ηλεκτρομηχανικός
+der Informatikkaufmann, die Informatikkaufmänner /	ειδικός συστημάτων πληροφορικής
+die Ausbildung, die Ausbildungen	εκπαίδευση
+der Leserbrief, die Leserbriefe	επιστολή αναγνώστη
+die Redaktion, die Redaktionen	σύνταξη (εφημερίδας/περιοδικού)
+meinen, er meint	θεωρώ
+beruflich	επαγγελματικός, επαγγελματικά
+das Interesse, die Interessen	το ενδιαφέρον
+der Arbeitsort, die Arbeitsorte	τόπος εργασίας
+das Berufsprofil, die Berufsprofile	επαγγελματικό προφίλ
+die Berufsausbildung	επαγγελματική εκπαίδευση
+mitmachen, er macht mit	συμμετέχω
+eigentlich	[εδώ!] αλήθεια, πράγματι
+die Berufsfachschule, die Berufsfachschulen	ειδική επαγγελματική σχολή
+das Seniorenheim, die Seniorenheime	οίκος ευγηρίας, γηροκομείο
+der Senior, die Senioren / die Seniorin, die Seniorinnen	ηλικιωμένος
+der Alltag	καθημερινή ζωή, καθημερινότητα
+duschen, er duscht	κάνω ντους
+anziehen (sich), er zieht (sich) an	ντύνομαι
+ausziehen (sich), er zieht (sich) aus	ξεντύνομαι, βγάζω (κάτι που φορώ)
+waschen (sich), er wäscht (sich)	πλένομαι
+bringen, er bringt (ins Bett bringen)	φέρνω (βάζω στο κρεββάτι / για ύπνο)
+das Medikament, die Medikamente	φάρμακο
+früher	παλαιότερα
+die Erfahrung, die Erfahrungen	[εδώ!] εμπειρία
+der Arbeitsplatz, die Arbeitsplätze	χώρος εργασίας
+die App, die Apps	(ψηφιακή) εφαρμογή
+installieren, er installiert	εγκαθιστώ
+das Computerspiel, die Computerspiele	ηλεκτρονικό παιχνίδι
+ausprobieren, er probiert aus	δοκιμάζω
+der Berufs-Check, die Berufs-Checks	δοκιμή σε κάποιο επάγγελμα
+das Berufsporträt, die Berufsporträts	επαγγελματικό πορτρέτο
+der Maurer, die Maurer / die Maurerin, die Maurerinnen	χτίστης, χτίστρια
+der Kosmetiker, die Kosmetiker / die Kosmetikerin,	αισθητικός
+der Kosmetiksalon, die Kosmetiksalons	στούντιο αισθητικής
+die Baustelle, die Baustellen	γιαπί, οικοδομικό εργοτάξιο
+beobachten, er beobachtet	παρατηρώ
+überlegen, er überlegt	σκέπτομαι, αναλογίζομαι
+das Praktikum, die Praktika	πρακτική εξάσκηση
+die Bewerbung, die Bewerbungen	αίτηση πρόσληψης
+verschicken, er verschickt	στέλνω, αποστέλλω
+der Erfolg, die Erfolge	επιτυχία
+die Berufsschule, die Berufsschulen	επαγγελματική σχολή
+langweilig	βαρετός, ανιαρός
+der Stein, die Steine	πέτρα
+der Beton	μπετόν
+das Eisen	σίδερο
+die Hilfe, die Hilfen	βοήθεια
+beenden, er beendet	τελειώνω, ολοκληρώνω
+anschauen, er schaut an	κοιτάζω
+der Schichtdienst	υπηρεσία σε βάρδιες
+die Frühschicht	πρωινή βάρδια
+die Spätschicht	απογευματινή βάρδια
+die Nachtschicht	νυχτερινή βάρδια
+das Ding, die Dinge (Das ist genau mein Ding.)	πράγμα (Αυτό είναι ακριβώς που μου αρέσει.)
+als	[εδώ!] ως
+feminin	θηλυκός
+die Berufsbezeichnung, die Berufsbezeichnungen	ονομασία επαγγέλματος
+die Endung, die Endungen	κατάληξη
+der Architekt, die Architekten / die Architektin,	αρχιτέκτονας, αρχιτεκτόνισσα
+betreuen, er betreut	φροντίζω, περιποιούμαι
+untersuchen, er untersucht	εξετάζω
+das Autohaus, die Autohäuser	κατάστημα πωλήσεως αυτοκινήτων
+das Krankenhaus, die Krankenhäuser	νοσοκομείο
+das Planungsbüro, die Planungsbüros	σχεδιαστικό γραφείο
+die Stirn	μέτωπο
+der Physiotherapeut, die Physiotheapeuten /	φυσιοθεραπευτής, φυσιοθεραπεύτρια
+der Gymnastik-Kurs, die Gymnastik-Kurse	μαθήματα γυμναστικής
+früh	νωρίς
+der Patient, die Patienten / die Patientin, die Patientinnen	ασθενής
+massieren, er massiert	κάνω μασάζ
+beraten, er berät	συμβουλεύω, παρέχω συμβουλές
+die Mittagspause, die Mittagspausen	μεσημβρινό/μεσημεριανό διάλειμμα
+der Schüler, die Schüler / die Schülerin, die Schülerinnen	μαθητής, μαθήτρια
+informieren, er informiert	πληροφορώ
+die Bank, die Banken	τράπεζα
+das Game-Design-Büro, die Game-Design-Büros	γραφείο σχεδιασμού (ηλεκτρονικών) παιχνιδιών
+der Chef, die Chefs / die Chefin, die Chefinnen	αφεντικό
+der Redemittelkasten	πλαίσιο με εκφραστικά μέσα
+anbieten, er bietet an	προσφέρω
+annehmen, er nimmt an	δέχομαι
+aufräumen, er räumt auf	συγυρίζω
+bedeutet, es bedeutet	σημαίνω
+die Altenpflege	φροντίδα/περιποίηση υπερηλίκων
+der Traumjob, die Traumjobs	επάγγελμα των ονείρων
+der Salon, die Salons	[εδώ!] στούντιο (αισθητικής)
+die Praxis, die Praxen	ιατρείο
+der Motor, die Motoren	κινητήρας
+ausgeben, er gibt aus	δίνω, μοιράζω
+dokumentieren, er dokumentiert	[εδώ!] περιγράφω
+die Massage, die Massagen	μασάζ
+testen, er testet	δοκιμάζω, τεστάρω
+verschieden	διάφοροι/-ες-/α
+der Spaß (macht Spaß)	ευχαρίστηση (ευχαριστεί, διασκεδάζει)
+lang (drei Jahre lang)	μακρύς (επί τρία χρόνια)
+das Lebensmittel, die Lebensmittel	τρόφιμο
+die Nudel, die Nudeln	ζυμαρικό
+das Obst	φρούτα
+die Wurst, die Würste	λουκάνικο, αλλαντικό
+das Milchprodukt, die Milchprodukte	γαλακτοκομικό προϊόν
+das Brot, die Brote	ψωμί
+die Erdnuss, die Erdnüsse	φυστίκι
+das Vollkornbrot, die Vollkornbrote	ψωμί πλήρους άλεσης
+die Butter	βούτυρο
+shoppen, er shoppt	ψωνίζω
+schleppen, er schleppt	κουβαλάω, σέρνω
+die Million, die Millionen	εκατομμύριο
+der Vorteil, die Vorteile	πλεονέκτημα
+der Online-Supermarkt, die Online-Supermärkte	διαδικτυακό σούπερ-μάρκετ
+geöffnet	ανοικτός
+müssen, er muss, er musste	πρέπει
+nichts	τίποτα
+die Foodbox, die Foodboxen	δοχείο φαγητού
+frisch	φρέσκος
+die Personenzahl, die Personenzahlen	αριθμός ατόμων
+angeben, er gibt an	[εδώ!] δηλώνω
+die Zutat, die Zutaten	υλικό (για την παρασκευή φαγητού)
+die Marmelade, die Marmeladen	μαρμελάδα
+der Honig, die Honige	μέλι
+der Snack, die Snacks	σνακ
+die Packung, die Packungen	πακέτο
+die Paprika, die Paprikas	πιπεριά
+der Bergkäse	βουνίσια γραβιέρα
+die Weißwurst, die Weißwürste	άσπρο λουκάνικο
+naturell	φυσικός
+die Erdbeermarmelade	μαρμελάδα φράουλα
+das Glas, die Gläser	[εδώ!] βάζο
+die Einkaufsliste, die Einkaufslisten	κατάλογος με ψώνια
+das Gramm, die Gramm	γραμμάριο
+das Kilo(gramm), die Kilogramm/die Kilos	κιλό
+der Liter, die Liter	λίτρο
+der Markt, die Märkte	αγορά
+die Feige, die Feigen	σύκο
+die Mandarine, die Mandarinen	μανταρίνι
+die Weintraube, die Weintrauben	σταφύλι
+die Limette, die Limetten	μοσχολέμονο
+der Pilz, die Pilze	μανιτάρι
+die Banane, die Bananen	μπανάνα
+die Birne, die Birnen	αχλάδι
+die Mini-Tomate, Mini-Tomaten	ντοματίνι
+die Möhre, die Möhren	καρότο
+die Gurke, die Gurken	αγγούρι
+die Zucchini, die Zucchinis	κολοκυθάκι
+die Zwiebel, die Zwiebeln	κρεμμύδι
+kosten, es kostet	κοστίζω
+der Marktstand, die Marktstände	πάγκος (λαϊκής αγοράς)
+dürfen, er darf, er durfte	επιτρέπεται
+Was darf es denn sein?	Τι θα θέλατε;
+dieser, dieses, diese	αυτός, αυτή, αυτό
+der Wunsch, die Wünsche	επιθυμία
+der Einkaufsdialog, die Einkaufsdialoge	διάλογος μεταξύ πωλητή και αγοραστή
+Darf es noch etwas sein?	Θα θέλετε κάτι ακόμα;
+der Verkäufer, die Verkäufer / die Verkäuferin,	πωλητής, πωλήτρια
+wünschen er wünscht	επιθυμώ
+als	[εδώ!] παρά
+die Orange, die Orangen	πορτοκάλι
+das Weißbrot, die Weißbrote	άσπρο ψωμί
+der Tomatensalat, die Tomatensalate	ντοματοσαλάτα
+der Gurkensalat, die Gurkensalate	αγγουροσαλάτα
+das Fragewort, die Fragewörter	ερωτηματική λέξη
+der Kopfsalat, die Kopfsalate	σαλάτα, μαρούλι
+Ich hätte gern ...	Ιch hätte gern ...
+der Koch, die Köche / die Köchin, die Köchinnen	μάγειρας, μαγείρισσα
+der Kochkurs, die Kochkurse	μαθήματα μαγειρικής
+der Löffel, die Löffel	κουτάλι
+die Show-Küche, die Show-Küchen	(ανοιχτή) κουζίνα επίδειξης
+die Kochtechnik, die Kochtechniken	μαγειρική τεχνική, τεχνική μαγειρέματος
+die Tischdekoration, die Tischdekorationen	διακόσμηση του τραπεζιού
+am liebsten	περισσότερο / με μεγαλύτερη ευχαρίστηση απ‘ όλα
+indisch	ινδικός
+die Bandnudel, die Bandnudeln	λαζάνια
+die Sahne	κρέμα γάλακτος
+gießen, er gießt	[εδώ!] χύνω
+braten, er brät	ψήνω
+schneiden, er schneidet	κόβω
+putzen, er putzt	καθαρίζω
+der Steinpilz, die Steinpilze	μανιτάρια πορτσίνι
+der Pfeffer	πιπέρι
+das Salz, die Salze	αλάτι
+das Öl, die Öle	λάδι
+rühren, er rührt	ανακατεύω
+dazutun, er tut dazu	προσθέτω
+anders	διαφορετικός, αλλιώς
+danach	κατόπιν
+auffallen, es fällt auf	κάνω εντύπωση
+die Flasche, die Flaschen	μπουκάλι, φιάλη
+die Tafel, die Tafeln	[εδώ!] πλάκα (σοκολάτας)
+die Dose, die Dosen	κουτί, κονσέρβα
+das Stück, die Stücke	κομμάτι, τεμάχιο
+der Einkaufszettel, die Einkaufszettel	σημείωμα για τα ψώνια
+die Menge, die Mengen	ποσότητα
+das Gemüsereis	ρύζι με λαχανικά
+dazugeben, er gibt dazu	προσθέτω
+anbraten, er brät an	τσιγαρίζω
+die Pfanne, die Pfannen	τηγάνι
+der Gemüseverkäufer, die Gemüseverkäufer	μανάβης, πωλητής ζαρζαβατικών
+laufen, er läuft	[εδώ!] περπατάω
+die Wiederholung, die Wiederholungen	επανάληψη
+der Käsekuchen, die Käsekuchen	τσίζκεϊκ
+mittags	το μεσημέρι, τα μεσημέρια
+zum Schluss	στο τέλος
+mitnehmen, er nimmt mit	παίρνω μαζί (μου)
+die Geschichte, die Geschichten	ιστορία
+vergessen, er vergisst	ξεχνάω
+der Informationstext, die Informationstexte	πληροφοριακό κείμενο
+der Elektriker, die Elektriker	ηλεκτρολόγος
+die Büroarbeit, die Büroarbeiten	δουλειά γραφείου
+das Gerät, die Geräte	συσκευή
+das Hostel, die Hostels	χόστελ, ξενώνας για νέους
+die Mappe, die Mappen	ντοσιέ, φάκελος
+das Bewerbungsgespräch, die Bewerbungsgespräche	συνέντευξη
+der Wortigel, die Wortigel	πλέγμα λέξεων
+der Quark	πηχτό γιαούρτι
+das Esszimmer, die Esszimmer	τραπεζαρία
+die Blume, die Blumen	λουλούδι, άνθος
+das Berufsrätsel, die Berufsrätsel	Μάντεψε το επάγγελμα!
+die Visitenkarte, die Visitenkarten	καρτ βιζίτ, επαγγελματική κάρτα
+der Redakteur, die Redakteure / die Redakteurin,	συντάκτης, συντάκτρια
+übergeben, er übergibt	δίνω (στα χέρια κάποιου), παραδίδω
+die Wartezeit, die Wartezeiten	χρόνος αναμονής
+nerven, er nervt	εκνευρίζω
+gar nicht	καθόλου
+zweit-	δεύτερος, δεύτερη, δεύτερο
+rein	μέσα [κίνηση!]
+raus	έξω [κίνηση!]
+viert-	τέταρτος, τέταρτη, τέταρτο
+fünft-	πέμπτος, πέμπτη, πέμπτο
+Tür auf	πόρτα ανοίγει
+nächst-	επόμενος, επόμενη, επόμενο
+Tag, Herr Doktor!	Καλημέρα, γιατρέ!
+die Emotion, die Emotionen	συναίσθημα
+gesund	1. υγιής, 2. υγιεινός
+slacken, er slackt	ισορροπώ (πάνω σε ελαστική λωρίδα)
+der Trendsport	σπορ της μόδας
+das Band, die Bänder	[εδώ!] λωρίδα, κορδέλα
+die Slackline, die Slacklines	ελαστική λωρίδα
+elastisch	ελαστικός
+der Zentimeter, die Zentimeter	εκατοστό (του μέτρου)
+breit	φαρδύς, πλατύς
+der Trick, die Tricks	κόλπο
+der Arm, die Arme	χέρι
+das Bein, die Beine	πόδι
+der Bauch, die Bäuche	κοιλιά
+der Rücken, die Rücken	πλάτη
+üben, er übt	ασκούμαι, ασκώ
+die Balance	ισορροπία
+die Konzentration	συγκέντρωση
+die Koordination	συντονισμός
+der Color Run, die Color Runs	χρωματοδρομία
+das Laufen	τροχάδην, τρέξιμο
+der Läufer, die Läufer / die Läuferin, die Läuferinnen	δρομέας
+tragen, er trägt	[εδώ!] φορώ
+weiß	λευκός, άσπρος
+das T-Shirt, die T-Shirts	αθλητικό φανελάκι
+der Zuschauer, die Zuschauer / die Zuschauerin,	θεατής
+werfen, er wirft	ρίχνω
+die Farbe, die Farben	1. χρώμα, 2. μπογιά
+das Ziel	[εδώ!] τερματισμός
+das Finish Festival	γιορτή του τερματισμού
+der Sportler, die Sportler / die Sportlerin,	αθλητής, αθλήτρια
+wollen, er will, er wollte	θέλω
+das Herz, die Herzen	καρδιά
+die Lunge, die Lungen	πνεύμονας
+die Barre	μπάρα
+die Ballettstange, die Ballettstangen	μπάρα μπαλέτου
+der Fan, die Fans	οπαδός
+die Bewegung, die Bewegungen	κίνηση
+intensiv	εντατικός, έντονος
+der Hals, die Hälse	λαιμός
+die Schulter, die Schultern	ώμος
+die Sorge, die Sorgen (Keine Sorge!)	έγνοια, φροντίδα (Μην ανησυχείς/ανησυχείτε!)
+die Sportverletzung, die Sportverletzungen	αθλητικό τραύμα
+das Eishockey	χόκεϊ επί πάγου
+das Knie, die Knie	γόνατο
+die Verletzung, die Verletzungen	τραυματισμός, τραύμα
+der Eishockeyspieler, die Eishockeyspieler	παίκτης χόκεϊ επί πάγου
+der Fitnesstrainer, die Fitnesstrainer /	γυμναστής, γυμνάστρια
+gegen	κατά
+der Besucher, die Besucher / die Besucherin,	επισκέπτης, επισκέπτρια
+aktiv	ενεργός, δραστήριος
+die Messe, die Messen	έκθεση
+faul	τεμπέλης
+die Gesundheit	υγεία
+der Aussteller, die Aussteller / die Ausstellerin,	εκθέτης, εκθέτρια
+das Fitnessprogramm, die Fitnessprogramme	πρόγραμμα καλής φυσικής κατάστασης
+boxen, er boxt (das Boxen)	πυγμαχώ (πυγμαχία, μποξ)
+das Zumba	ζούμπα [λατινοαμερικάνικη αεροβική γυμναστική]
+die Trainingsmöglichkeit, die Trainingsmöglichkeiten	δυνατότητα/ευκαιρία προπόνησης
+alle	όλοι, όλες, όλα
+der Sporttrend, die Sporttrends	μόδα στο χώρο των σπορ
+die  Fitness-App, die Fitness-Apps	ηλεκτρονική εφαρμογή για γυμναστική
+gleich	[εδώ!] αμέσως, επιτόπου
+die Überschrift, die Überschriften	επικεφαλίδα
+die Sportart, die Sportarten	άθλημα
+die Sportsprache, die Sportsprachen	γλώσσα των σπορ
+der Körperteil, die Körpertreile	μέλος του σώματος
+die Dauer	διάρκεια
+das Skateboard, die Skateboards	σκέιτμπορντ
+die Knieschmerzen (Plural!)	πόνοι στο γόνατο
+der Arzttermin, die Arzttermine	ραντεβού στο γιατρό
+die Chipkarte, die Chipkarten	ηλεκτρονική κάρτα
+dabeihaben, er hat dabei, er hatte dabei	έχω μαζί μου
+das Wartezimmer, die Wartezimmer	αίθουσα αναμονής
+Platz nehmen, er nimmt Platz	παίρνω θέση, κάθομαι
+rufen, er ruft	φωνάζω
+die Krankenversicherung, die Krankenversicherungen	ιατροφαρμακευτική ασφάλιση
+die Arztkosten (Plural!)	ιατρικά έξοδα, ιατρικές δαπάνες
+der/die Versicherte, die Versicherten	ασφαλισμένος, ασφαλισμένη
+die Gesundheitskarte, die Gesundheitskarten	κάρτα υγείας/ασφάλισης
+die Apotheke, die Apotheken	φαρμακείο
+manche	ορισμένοι/-ένες/-ένα
+die E-Card, die E-Cards	κάρτα ασφάλισης [Αυστρία]
+die Versichertenkarte, die Versichertenkarten	κάρτα ασφάλισης [Ελβετία]
+passieren, es passiert, es ist passiert	συμβαίνει
+der Unfall, die Unfälle	ατύχημα
+hinfallen, er fällt hin	πέφτω κάτω
+schlimm	σοβαρός, δυσάρεστος
+ein paar	μερικοί/-ές/-ά
+der Schritt, die Schritte	βήμα
+schlecht (mir war schlecht)	κακός, άσχημος (ένιωθα άσχημα)
+aufwachen, er wacht auf	ξυπνώ
+wehtun, es tut weh	πονά
+fliegen, er fliegt	πετάω
+die Untersuchung, die Untersuchungen	εξέταση
+hinlegen (sich), er legt (sich) hin	ξαπλώνω
+krankschreiben, er schreibt krank	δίνω αναρρωτική άδεια
+sollen, er soll, er sollte	πρέπει [προτροπή, συμβουλή]
+dick	χοντρός, [εδώ!] πρησμένος
+die Verstauchung, die Verstauchungen	στραμπούληγμα
+hochlegen, er legt hoch	ακουμπώ/βάζω ψηλά
+auftragen, er trägt auf	βάζω (αλοιφή), αλοίφω
+dreimal	τρεις φορές
+die Sportsalbe, die Sportsalben	αλοιφή για αθλητές
+die Tablette, die Tabletten	χάπι
+der Schmerz, die Schmerzen	πόνος
+die Salbe, die Salben	αλοιφή
+Gute Besserung!	Περαστικά!
+die Rollenkarte, die Rollenkarten	κάρτα που περιγράφει κάποιο ρόλο
+die Kopfschmerzen (Plural!)	πονοκέφαλος
+ausruhen (sich), er ruht sich aus	ξεκουράζομαι, ησυχάζω
+die Halsschmerzen (Plural!)	πονόλαιμος
+der Husten	βήχας
+die Halstablette, die Halstabletten	ταμπλέτα για τον πονόλαιμο
+der Hustensaft, die Hustensäfte	σιρόπι για τον βήχα
+das Handball	χάντμπολ, χειροσφαίριση
+wiederkommen, er kommt wieder	ξανάρχομαι
+die Laune (gute Laune)	διάθεση (ευδιαθεσία)
+die Erkältung, die Erkältungen	κρυολόγημα
+der Titel, die Titel	τίτλος
+der Profi, die Profis	επαγγελματίας
+die Entspannung	χαλάρωση, ξεκούραση
+besser	καλύτερα
+die Ernährung	διατροφή
+der Schnupfen	συνάχι
+die Sauna, die Saunas/Saunen	σάουνα
+der Körper, die Körper	σώμα
+das Immunsystem, die Immunsysteme	ανοσοποιητικό σύστημα
+müde	κουρασμένος
+spazieren gehen, er geht spazieren	πηγαίνω περίπατο
+die Hauptsache, die Hauptsachen	το κυριότερο
+die Energie, die Energien	ενέργεια
+ausmachen, er macht aus	[εδώ!] κλείνω (συσκευή)
+die Nase, die Nasen	μύτη
+besonders	ιδιαίτερα
+der Brokkoli	μπρόκολο
+das Vitamin, die Vitamine	βιταμίνη
+die Anweisung, die Anweisungen	οδηγία
+der Ratschlag, die Ratschläge	συμβουλή
+die Imperativform, die Imperativformen	τύπος προστακτικής
+der Imperativsatz, die Imperativsätze	πρόταση σε προστακτική
+die Ausnahme, die Ausnahmen	εξαίρεση
+der Prospekt, die Prospekte	προσπέκτ, διαφημιστικό/ενημερωτικό έντυπο
+die Verspätung, die Verspätungen	καθυστέρηση
+der Silbenanfang	αρχή της συλλαβής
+der Wortanfang	αρχή της λέξης
+das Silbenende	τέλος της συλλαβής
+das Wortende	τέλος της λέξης
+der Sporttermin, die Sporttermine	ραντεβού για σπορ
+einpacken, er packt ein	πακετάρω, ετοιμάζω
+die Sportsachen (Plural!)	πράγματα (που χρησιμοποιώ όταν κάνω σπορ)
+der Sportkurs, die Sportkurse	μάθημα για κάποιο σπορ
+weglegen, er legt weg	βάζω στην άκρη
+das Ballett	μπαλέτο
+bewegen, er bewegt	κινώ
+Venedig	Βενετία
+vorher	προηγουμένως
+die Gondel, die Gondeln	γόνδολα
+natürlich	φυσικά
+die Rückenschmerzen (Plural!)	πόνοι στην πλάτη
+die Gymnastik	γυμναστική
+Was fehlt dir denn?	Τι έχεις;
+die Bauchschmerzen (Plural!)	κοιλόπονος
+der Yogalehrer, die Yogalehrer / die Yogalehrerin,	καθηγητής/καθηγήτρια γιόγκα
+das Studio, die Studios	στούντιο
+die Popmusik	μουσική ποπ
+die Krankheit, die Krankheiten	αρρώστια, ασθένεια
+voll	πλήρης, [εδώ!] εντελώς
+die Kleidung	ενδυμασία, ρούχα, ρουχισμός
+der Dresscode, die Dresscodes	ενδυματολογικός κώδικας
+der Anzug, die Anzüge	κοστούμι
+der Pullover, die Pullover	πουλόβερ
+die Jeans (Plural!)	τζιν
+das Hemd, die Hemden	πουκάμισο
+die Krawatte, die Krawatten	γραβάτα
+schick	κομψός, σικ
+der Schuh, die Schuhe	παπούτσι
+die Sandale, die Sandalen	σανδάλι
+die Shorts (Plural!)	σορτ, κοντό παντελόνι
+das Jackett, die Jacketts	σακάκι
+der Lederschuh, die Lederschuhe	δερμάτινο παπούτσι
+die Hose, die Hosen	παντελόνι
+das Outfit, die Outfits	ντύσιμο, εμφάνιση
+farbig	χρωματιστός
+der Projektmanager, die Projektmanager /	διευθυντής/διευθύντρια έργου
+das Lieblingsoutfit, die Lieblingsoutfits	αγαπημένο ντύσιμο
+blau	μπλε
+der Turnschuh, die Turnschuhe	αθλητικό παπούτσι
+die Bluse, die Blusen	πουκαμίσα
+der Blazer, die Blazer	σακάκι, μπλέιζερ
+der Hosenanzug, die Hosenanzüge	(γυναικείο) κοστούμι
+das Kleid, die Kleider	φόρεμα
+der Rock, die Röcke	φούστα
+die Lieblingsfarbe, die Lieblingsfarben	αγαπημένο χρώμα
+gelb	κίτρινο, κίτρινος
+sportlich	αθλητικός
+rot	κόκκινο, κόκκινος
+grün	πράσινο, πράσινος
+braun	καφέ
+orange	πορτοκαλί
+türkis	τυρκουάζ
+beige	μπεζ
+lila	μοβ, λιλά
+rosa	ροζ
+grau	γκρι, γκρίζος
+bunt	πολύχρωμος
+der Mantel, die Mäntel	πανωφόρι, παλτό
+der Stiefel, die Stiefel	μπότα
+der Hut, die Hüte	καπέλο
+unmöglich	[εδώ!] απαράδεκτος
+altmodisch	παλιομοδίτικος
+der Stil	στιλ, ύφος
+die Modefrage, die Modefragen	ερώτηση σχετική με τη μόδα
+der Star, die Stars	σταρ, αστέρας
+die Größe, die Größen	μέγεθος
+der Ärmel, die Ärmel	μανίκι
+gefallen, es gefällt	αρέσω
+anprobieren, er probiert an	προβάρω, δοκιμάζω
+der Sale, die Sales	προσφορά
+sicher	σίγουρος, βέβαιος
+die Mode, die Moden	μόδα
+das Lieblingskleidungsstück, die Lieblingskleidungsstücke	αγαπημένο ρούχο
+interessieren (sich), er interessiert (sich)	ενδιαφέρομαι
+aktuell	[εδώ!] αυτή την εποχή
+eigen-	δικός/-ή/-ό
+das Kleidungsstück, die Kleidungsstücke	ρούχο
+der Interviewer, die Interviewer / die Interviewerin,	δημοσιογράφος (που παίρνει συνέντευξη)
+benutzen, er benutzt	χρησιμοποιώ
+nachfragen, er fragt nach, er hat nachgefragt	ρωτώ (να μάθω)
+die Berufskleidung	επαγγελματική ενδυμασία
+bequem	άνετος
+die Lieblingskleidung	αγαπημένο ντύσιμο
+die Geburtstagsparty, die Geburtstagspartys	πάρτι γενεθλίων
+der Mix	μείγμα
+die Übergröße, die Übergrößen	μεγάλο μέγεθος
+stehen, es steht	[εδώ!] πάει, ταιριάζει, στέκεται [ρούχο]
+pink	ροζ
+der Demonstrativ-Artikel, die Demonstrativ-Artikel	δεικτικό (δεικτική αντωνυμία)
+die Jahreszeit, die Jahreszeiten	εποχή (του χρόνου)
+das Fest, die Feste	γιορτή
+das Stadtgartenfest	γιορτή στο πάρκο (της πόλης)
+das Seenachtsfest	νυχτερινή γιορτή στη λίμνη
+direkt an	δίπλα, πάνω σε...
+der Bodensee	λίμνη της Κωνσταντίας
+feiern, er feiert	γιορτάζω
+der Juni	Ιούνιος
+der Schluss (zum Schluss)	τέλος (στο τέλος)
+der Festplatz, die Festplätze	χώρος γιορτής
+der/die Erwachsene, die Erwachsenen	ενήλικος
+das Puppentheater, die Puppentheater	κουκλοθέατρο
+regional	τοπικός
+die Kletterwand, die Kletterwände	τοίχος αναρρίχησης
+die Spargelkönigin, die Spargelköniginnen	βασίλισσα του σπαραγγιού
+die Spargelhauptstadt	πρωτεύουσα του σπαραγγιού
+südwestlich (von)	νοτιοδυτικά (του/της...)
+der Spargel, die Spargel	σπαράγγι
+berühmt	φημισμένος, ξακουστός
+die Spargelsaison, die Spargelsaisons	περίοδος συγκομιδής των σπαραγγιών
+der Mai	Μάιος
+die Juniwoche, die Juniwochen	εβδομάδα του Ιουνίου
+das Spargelfest, die Spargelfeste	γιορτή του σπαραγγιού
+am besten	πιο καλά απ‘ όλα
+das Sommerfest, die Sommerfeste	καλοκαιρινή γιορτή
+der Ort, die Orte	μέρος, τόπος
+die Landkarte, die Landkarten	χάρτης
+nördlich	βόρειος, βόρεια
+östlich	ανατολικός, ανατολικά
+südlich	νότιος, νότια
+westlich	δυτικός, δυτικά
+das Sommerfest	γιορτή του καλοκαιριού
+der Rhein	Ρήνος
+das Highlight, die Highlights	αποκορύφωση, highlight
+das Feuerwerk, die Feuerwerke	πυροτέχνημα, καύση πυροτεχνημάτων
+das Motto, die Mottos	σύνθημα, μότο
+die Flamme, die Flammen	φλόγα
+das Weltmusikfest, die Weltmusikfeste	παγκόσμια μουσική γιορτή
+die Theater-Bühne, die Theater-Bühnen	θεατρική σκηνή
+das Produkt, die Produkte	προϊόν
+erwarten, er erwartet	αναμένω, περιμένω
+die Parade, die Paraden	παρέλαση
+die Nation, die Nationen	έθνος
+der Kulturverein, die Kulturvereine	πολιτιστικός σύλλογος
+der Teilnehmer, die Teilnehmer / die Teilnehmerin,	συμμετέχων, συμμετέχουσα
+der Tanz, die Tänze	χορός
+die Sonne, die Sonnen	ήλιος
+die Feier, die Feiern	γιορτή
+der August	Αύγουστος
+kurz	σύντομος
+das Johannisfest	γιορτή του Άη Γιάννη
+meistens	τις περισσότερες φορές
+die Sommerferien	θερινές διακοπές
+der Fluss, die Flüsse	ποτάμι, ποταμός
+der See, die Seen	λίμνη
+das Weinfest, die Weinfeste	γιορτή του κρασιού
+das Kirschfest, die Kirschfeste	γιορτή του κερασιού
+das Erdbeerfest, die Erdbeerfeste	γιορτή της φράουλας
+das Bratwurstfest, die Bratwurstfeste	γιορτή του ψητού λουκάνικου
+das Wetter	καιρός [μετεωρολογία]
+der Herbst	φθινόπωρο
+das Würstchen, die Würstchen	λουκάνικο, λουκανικάκι
+die Grillkartoffel, die Grillkartoffeln	πατάτα κατάλληλη για γκριλ
+der Vegetarier, die Vegetarier / die Vegetarierin,	χορτοφάγος
+werden, er wird (es wird kalt)	γίνομαι (θα κάνει κρύο)
+regnen, es regnet	βρέχει
+das Gewitter, die Gewitter	καταιγίδα
+bewölkt	νεφελώδης, συννεφιασμένος
+Mist!	Σκατά!
+der Schirm, die Schirme	ομπρέλα
+das Zelt, die Zelte	σκηνή, αντίσκηνο
+die Wetter-App, die Wetter-Apps	εφαρμογή που πληροφορεί για τον καιρό
+der Grad, die Grade	βαθμός (θερμοκρασίας)
+nachts	τη νύχτα
+sonnig (es ist sonnig)	ηλιόλουστος (έχει λιακάδα)
+die Wolke, die Wolken	σύννεφο
+das Europawetter	ο καιρός στην Ευρώπη
+genauso	(ακριβώς) το ίδιο
+kühl	ψυχρός
+der Vergleich, die Vergleiche	σύγκριση
+der Komparativ	συγκριτικός (βαθμός)
+unregelmäßig	ανώμαλος
+ungleich	άνισος, ανόμοιος
+gleich	ίδιος, ίσος
+das Tamil	ταμίλ [γλώσσα της Σρι Λάνκα]
+das Rumänisch	ρουμάνικα
+das Mitteleuropa	Κεντρική Ευρώπη
+der Dezember	Δεκέμβριος
+der Februar	Φεβρουάριος
+die Semesterferien (Plural!)	διακοπές εξαμήνου
+der September	Σεπτέμβριος
+der Frühling	άνοιξη
+die Trockenzeit, die Trockenzeiten	περίοδος ξηρασίας
+die Regenzeit, die Regenzeiten	περίοδος βροχών
+der Monsun-Regen	μουσώνας [ισχυρός άνεμος με βροχή]
+das Wortschatzplakat, die Wortschatzplakate	πλακάτ/αφίσα λεξιλογίου
+der Juli	Ιούλιος
+die Ferien (Plural!)	διακοπές
+der November	Νοέμβριος
+das Blatt, die Blätter	φύλλο
+der Sturm, die Stürme	θύελλα
+der Januar	Ιανουάριος
+der Regen	βροχή
+die Wortfamilie, die Wortfamilien	οικογένεια λέξεων
+das Regenwetter	βροχερός καιρός
+blitzen, es blitzt	αστράφτει
+donnern, es donnert	βροντάει
+der Smalltalk, die Smalltalks	ψιλοκουβέντα, κουβεντούλα περί ανέμων και υδάτων
+englisch	αγγλικός
+das Kontaktgespräch, die Kontaktgespräche	διάλογος γνωριμίας (για να σπάσει ο πάγος)
+die Kasse, die Kassen	ταμείο
+das Nichts-Sagen	το να μη λες τίποτα, η σιωπή
+unhöflich	αγενής, όχι ευγενικός
+das Top-Thema, die Top-Themen	το πιο συνηθισμένο/δημοφιλές θέμα
+das Mistwetter	παλιόκαιρος
+letzt-	τελευταίος/-α/-ο
+furchtbar	φοβερός, φρικτός, απαίσιος
+asiatisch	ασιατικός
+italienisch	ιταλικός
+das Kino, die Kinos	κινηματογράφος, σινεμά
+der Urlaub	άδεια [από την εργασία]
+es kommt auf (die Situation) an	εξαρτάται από (την περίσταση)
+fantastisch	φανταστικός
+die Politik	πολιτική
+eher	μάλλον
+der Streit, die Streite	καβγάς, τσακωμός
+erzählen, er erzählt	[εδώ!] λέω
+zuhören, er hört zu	ακούω (προσεκτικά)
+niemals	ποτέ
+neutral	ουδέτερος
+der Sportverein, die Sportvereine	αθλητικός σύλλογος
+das Grillfest, die Grillfeste	(πάρτι) μπάρμπεκιου
+dreitägig	τριήμερος
+für Jung und Alt	για μεγάλους και μικρούς
+bekannt	γνωστός
+der Umzug, die Umzüge	[εδώ!] παρέλαση
+der König, die Könige / die Königin, die Königinnen	βασιλιάς, βασίλισσα
+das Fußballspiel, die Fußballspiele	αγώνας ποδοσφαίρου, ποδοσφαιρικός αγώνας, ματς
+die Planung, die Planungen	σχεδιασμός
+die Sonne scheint	ο ήλιος λάμπει, έχει λιακάδα
+der Wetterbericht, die Wetterberichte	δελτίο καιρού
+schneien, es schneit	χιονίζει
+minus	μείον, πλην
+uninteressant	όχι ενδιαφέρων, βαρετός
+unpraktisch	όχι πρακτικός, άβολος
+das Gegensatzpaar, die Gegensatzpaare	ζευγάρι αντιθέτων (στη σημασία) λέξεων
+billig	φτηνός
+das Wortdiktat, die Wortdiktate	υπαγόρευση λέξεων
+geeignet	κατάλληλος
+das Filmfestival, die Filmfestivals	κινηματογραφικό φεστιβάλ
+es ist windig	φυσάει, έχει αέρα
+der Zeltplatz, die Zeltplätze	κατασκήνωση
+der Campingplatz, die Campingplätze	κάμπινγκ
+buchen, er bucht	κλείνω, κάνω κράτηση
+zelten, er zeltet	κατασκηνώνω
+beliebt	αγαπητός, δημοφιλής
+die Schule, die Schulen	σχολείο
+garantiert	εγγυημένα
+der Schlafsack, die Schlafsäcke	υπνόσακος, σλίπινμπαγκ
+die Straßenkarte, die Straßenkarten	οδικός χάρτης
+pur	καθαρός
+der Wald, die Wälder	δάσος
+der Radtour, die Radtouren	ταξίδι με ποδήλατο
+die Tourismusbranche	τουριστικός κλάδος
+der Aktivurlaub	διακοπές με δράση
+die Erste-Hilfe-Tasche, die Erste-Hilfe-Taschen	τσάντα πρώτων βοηθειών
+der Bauernhof, die Bauernhöfe	αγρόκτημα
+die Ziege, die Ziegen	κατσίκα
+die Kuh, die Kühe	αγελάδα
+das Pferd, die Pferde	άλογο
+füttern, er füttert	ταϊζω
+willkommen sein, er ist willkommen	είμαι ευπρόσδεκτος
+der Koffer, die Koffer	βαλίτσα
+packen, er packt	φτιάχνω (βαλίτσα)
+reisen, er reist	ταξιδεύω
+der Rucksack, die Rucksäcke	σακίδιο (πλάτης)
+das Souvenir, die Souvenirs	σουβενίρ, αναμνηστικό
+das Kleingeld	ψιλά
+schließen, er schließt	κλείνω
+das Auge, die Augen	μάτι
+das Lieblingsbuch, die Lieblingsbücher	αγαπημένο βιβλίο
+der Rucksackurlaub	διακοπές με το σακίδιο στην πλάτη
+der E-Reader, die E-Reader	ηλεκτρονικός αναγνώστης, e-reader
+das Notizbuch, die Notizbücher	σημειωματάριο
+die Schwimmbrille, die Schwimmbrillen	γυαλιά/μάσκα (για το μπάνιο)
+das Meer, die Meere	θάλασσα
+der Strand, die Strände	αμμουδιά, πλαζ
+der Platz	[εδώ!] χώρος
+setzen, er setzt	βάζω (επάνω σε κάποια επιφάνεια)
+genießen, er genießt	απολαμβάνω
+der Sound, die Sounds	ήχος (μουσικής)
+stören, er stört	ενοχλώ
+die Route, die Routen	διαδρομή
+der Lieblingsurlaub	αγαπημένες μου διακοπές
+die Ausstellung, die Ausstellungen	έκθεση
+das Lieblingsziel, die Lieblingsziele	αγαπημένος ταξιδιωτικός στόχος
+die Rucksacktour, die Rucksacktouren	διαδρομή με το σακίδιο στην πλάτη
+allein(e)	μόνος
+die Bahn, die Bahnen	τρένο
+übernachten, er übernachtet	διανυκτερεύω
+der Tangokurs, die Tangokurse	μαθήματα ταγκό
+weiterreisen, er reist weiter	συνεχίζω το ταξίδι
+spontan	αυθόρμητα, χωρίς πολλή σκέψη
+das Mittelmeer	Μεσόγειος
+der Niederländer, die Niederländer /	Ολλανδός, Ολλανδή
+der Naturpark, die Naturparks	φυσικό πάρκο
+Mal sehen.	Θα δούμε. / Βλέπουμε.
+der Traum, die Träume	όνειρο
+wohin	προς τα πού
+das Gewässer die Gewässer	ύδατα, νερά
+die Nordsee	Βόρεια Θάλασσα
+die Ostsee	Βαλτική
+die Urlaubsaktivität, die Urlaubsaktivitäten	δραστηριότητα διακοπών
+das Volleyball	βόλεϊ
+das Frühjahr, die Frühjahre	άνοιξη
+die Checkliste, die Checklisten	λίστα/κατάλογος ελέγχου
+die Sonnenbrille, die Sonnenbrillen	γυαλιά ηλίου
+der Reiseführer, die Reiseführer	ταξειδιωτικός οδηγός
+die Kommunikation	επικοινωνία
+das Erinnerungsfoto, die Erinnerungsfotos	αναμνηστική φωτογραφία
+der Flughafen, die Flughäfen	αεροδρόμιο
+das Terminal, die Terminals	τέρμιναλ (αεροδρομίου), σταθμός αερολιμένα
+die Anrede, die Anreden	προσφώνηση
+liebe ..., lieber... (Name)	αγαπητή ..., αγαπητέ ...
+die Abschiedsformel, die Abschiedsformeln	έκφραση αποχαιρετισμού
+ab!	[εδώ!] εμπρός, πάμε!
+der Skiurlaub	διακοπές για σκι
+das Urlaubsziel, die Urlaubsziele	στόχος διακοπών
+der Campingurlaub	διακοπές σε κάμπινγκ
+das Reiseziel, die Reiseziele	ταξιδιωτικός στόχος
+das Reisetagebuch, die Reisetagebücher	ημερολόγιο ταξιδιού
+der Reisebericht, die Reiseberichte	έκθεση για ένα ταξίδι
+der Urlaubsplan, die Urlaubspläne	σχέδιο διακοπών
+der Küchentisch, die Küchentische	τραπέζι της κουζίνας
+der Urlaubsgruß, die Urlaubsgrüße	χαιρετίσματα από τις διακοπές
+die Skihose, die Skihosen	παντελόνι για σκι
+das Fußballtraining	ποδοσφαιρική προπόνηση
+der Fußballplatz, die Fußballplätze	(ποδοσφαιρικό) γήπεδο
+der Ball, die Bälle	μπάλα
+der Fußballschuh, die Fußballschuhe	ποδοσφαιρικό παπούτσι
+die Süßigkeit, die Süßigkeiten	γλύκισμα
+die Vokabel, die Vokabeln	(άγνωστη) λέξη
+gießen, er gießt	[εδώ!] ποτίζω
+der Fahrradladen, die Fahrradläden	ποδηλατάδικο
+die Kobra, die Kobras	κόμπρα
+die Anleitung, die Anleitungen	οδηγία
+die Seite, die Seiten	[εδώ!] πλευρά
+ausstrecken, er streckt aus	τεντώνω, εκτείνω
+anheben, er hebt an	σηκώνω, ανασηκώνω
+drehen, er dreht	στρέφω, γυρίζω
+gerade	[εδώ!] όρθιος
+tief	βαθύς, βαθιά
+einatmen, er atmet ein	εισπνέω
+ausatmen, er atmet aus	εκπνέω
+auf jeden Fall	οπωσδήποτε, σε κάθε περίπτωση
+auf keinen Fall	σε καμία περίπτωση
+die Liebe	αγάπη
+das Gras	γρασίδι, χορτάρι
+rosarot sehen, er sieht rosarot	τα βλέπω αισιόδοξα
+der Neid	ζήλια, φθόνος
+die Wut	οργή, θυμός
+blau sein, er ist blau	είμαι μεθυσμένος
+das Volkslied, die Volkslieder	δημοτικό/λαϊκό τραγούδι
+der Jäger, die Jäger / die Jägerin, die Jägerinnen	κυνηγός
+der Reiter, die Reiter / die Reiterin, die Reiterinnen	ιππέας, καβαλάρης
+der Schornsteinfeger, die Schornsteinfeger /	καπνοδοχοκαθαριστής
+der Müller, die Müller / die Müllerin, die Müllerinnen	μυλωνάς, μυλωνού
+der Maler, die Maler / die Malerin, die Malerinnen	ζωγράφος
+die Strophe, die Strophen	στροφή (τραγουδιού/ποιήματος)
+das Zitat, die Zitate	τσιτάτο, παράθεμα
+die Weltkarte, die Weltkarten	παγκόσμιος χάρτη

@@ -41,6 +41,32 @@ h1 {
     font-weight: 600;
 }
 
+.class-selector {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.class-selector input[type="radio"] {
+    display: none;
+}
+
+.class-selector label {
+    padding: 8px 16px;
+    border: 1px solid rgba(245, 245, 220, 0.8);
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0 5px;
+    background-color: transparent;
+    color: #F5F5DC;
+}
+
+.class-selector input[type="radio"]:checked + label {
+    background-color: rgba(139, 69, 19, 0.6);
+    border-color: rgba(139, 69, 19, 0.8);
+}
+
 .flashcard {
     width: 100%;
     min-height: 180px;

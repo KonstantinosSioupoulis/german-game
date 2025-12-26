@@ -9,14 +9,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const serialSearchContainer = document.getElementById('serial-search');
     const searchInput = document.getElementById('search-input');
     const searchButton = document.getElementById('search-button');
+    const classA1Radio = document.getElementById('class-a1');
+    const classA2Radio = document.getElementById('class-a2');
 
     let currentWord = null;
     let gameMode = 'random';
     let serialIndex = 0;
     let wordCount = 0;
+    let currentClass = 'a1';
 
     function getWordCount() {
-        fetch('/get_word_count')
+        fetch(`/get_word_count?class=${currentClass}`)
             .then(response => response.json())
             .then(data => {
                 wordCount = data.count;
@@ -24,13 +27,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function getNewWord(getPrev = false) {
-        let url = '/get_word';
+        let url = `/get_word?class=${currentClass}`;
         if (gameMode === 'serial') {
             if (getPrev) {
                 // Decrement index to get the previous word
                 serialIndex = (serialIndex - 2 + wordCount) % wordCount;
             }
-            url += `?mode=serial&index=${serialIndex}`;
+            url += `&mode=serial&index=${serialIndex}`;
             // Increment for the next word
             serialIndex = (serialIndex + 1) % wordCount;
         }
@@ -49,6 +52,16 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
     }
+
+    function changeClass() {
+        currentClass = this.value;
+        serialIndex = 0;
+        getWordCount();
+        getNewWord();
+    }
+
+    classA1Radio.addEventListener('change', changeClass);
+    classA2Radio.addEventListener('change', changeClass);
 
     showTranslationButton.addEventListener('click', function() {
         if (currentWord) {
@@ -81,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
     searchButton.addEventListener('click', function() {
         const searchTerm = searchInput.value;
         if (searchTerm) {
-            fetch(`/find_word?term=${encodeURIComponent(searchTerm)}`)
+            fetch(`/find_word?class=${currentClass}&term=${encodeURIComponent(searchTerm)}`)
                 .then(response => response.json())
                 .then(data => {
                     if (data.index !== -1) {
