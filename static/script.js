@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const germanWordElement = document.getElementById('german-word');
     const greekWordElement = document.getElementById('greek-word');
     const showTranslationButton = document.getElementById('show-translation');
+    const prevWordButton = document.getElementById('prev-word');
     const nextWordButton = document.getElementById('next-word');
     const toggleModeButton = document.getElementById('toggle-mode');
     const modeTextElement = document.getElementById('mode-text');
@@ -22,10 +23,15 @@ document.addEventListener('DOMContentLoaded', function() {
             });
     }
 
-    function getNewWord() {
+    function getNewWord(getPrev = false) {
         let url = '/get_word';
         if (gameMode === 'serial') {
+            if (getPrev) {
+                // Decrement index to get the previous word
+                serialIndex = (serialIndex - 2 + wordCount) % wordCount;
+            }
             url += `?mode=serial&index=${serialIndex}`;
+            // Increment for the next word
             serialIndex = (serialIndex + 1) % wordCount;
         }
 
@@ -50,6 +56,10 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
+    prevWordButton.addEventListener('click', function() {
+        getNewWord(true);
+    });
+
     nextWordButton.addEventListener('click', function() {
         getNewWord();
     });
@@ -58,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (gameMode === 'random') {
             gameMode = 'serial';
             modeTextElement.textContent = 'Serial';
-            serialSearchContainer.style.display = 'block';
+            serialSearchContainer.style.display = 'flex'; // Use flex to align items
             serialIndex = 0; // Reset index when switching to serial
         } else {
             gameMode = 'random';

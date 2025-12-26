@@ -78,12 +78,64 @@ h1 {
     margin-top: 30px;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
-.buttons button {
-    padding: 12px 25px;
-    font-size: 18px;
+#serial-search {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#search-input {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(245, 245, 220, 0.8);
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #F5F5DC;
+    font-size: 16px;
+    flex: 1 1 150px; /* Allow grow, shrink, with a base width */
+}
+
+#search-input::placeholder {
+    color: rgba(245, 245, 220, 0.6);
+}
+
+#search-button {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    background-color: transparent;
+    border: 1px solid rgba(245, 245, 220, 0.8);
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    flex-shrink: 0;
+}
+
+#search-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#search-button svg {
+    stroke: #F5F5DC;
+    width: 20px;
+    height: 20px;
+}
+
+.action-button {
+    padding: 10px 20px;
+    font-size: 16px;
     cursor: pointer;
     border: 1px solid rgba(245, 245, 220, 0.8);
     border-radius: 8px;
@@ -91,14 +143,35 @@ h1 {
     color: #F5F5DC;
     transition: background-color 0.3s ease, transform 0.2s ease;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    flex-shrink: 0;
 }
 
-.buttons button:hover {
+.action-button:hover {
     background-color: rgba(139, 69, 19, 0.8); /* Darker SaddleBrown on hover */
     transform: translateY(-2px);
 }
 
-.buttons button:active {
+.action-button:active {
     transform: translateY(0);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#prev-word {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    background-color: rgba(139, 69, 19, 0.4); /* Lighter SaddleBrown */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#prev-word:hover {
+    background-color: rgba(139, 69, 19, 0.6); /* Slightly darker on hover */
+}
+
+#prev-word svg {
+    stroke: #F5F5DC;
+    width: 20px;
+    height: 20px;
 }

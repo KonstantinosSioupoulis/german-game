@@ -14,13 +14,24 @@
             <div class="greek-word" id="greek-word" style="display: none;"></div>
         </div>
         <div class="buttons">
-            <button id="show-translation">Show Translation</button>
-            <button id="next-word">Next Word</button>
-            <button id="toggle-mode">Toggle Mode</button>
+            <button id="show-translation" class="action-button">Show Translation</button>
+            <button id="next-word" class="action-button">Next Word</button>
+            <button id="toggle-mode" class="action-button">Toggle Mode</button>
         </div>
-        <div id="serial-search" style="display: none; margin-top: 15px;">
+        <div id="serial-search" style="display: none;">
             <input type="text" id="search-input" placeholder="Enter a word...">
-            <button id="search-button">Find Word</button>
+            <button id="search-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </button>
+            <button id="prev-word" class="action-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left">
+                    <line x1="19" y1="12" x2="5" y2="12"></line>
+                    <polyline points="12 19 5 12 12 5"></polyline>
+                </svg>
+            </button>
         </div>
         <div class="game-mode">Mode: <span id="mode-text">Random</span></div>
     </div>
